@@ -1,0 +1,35 @@
+<footer class="site-footer">
+  <div class="large-4 columns">
+    <h3>Kontakt</h3>
+    <ul class="contact-list">
+      <li>Naturschutz Richterswil-Samstagern<br>
+        c/o Nils Ratnaweera<br>
+        Eichmüli 7<br>
+        8820 Wädenswil </li>
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li>{{ site.phone }}</li>
+    </ul>
+  </div>
+
+  <div class="large-4 columns">
+    <h3>Social Media</h3>
+    <ul class="social-media-list">
+      {% if site.github_username %}
+      <li>
+        {% include icon-github.html username=site.github_username %}
+      </li>
+      {% endif %}
+
+      {% if site.twitter_username %}
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+
+  <div class="large-4 columns">
+    <h3>Über uns</h3>
+    <p>{{ site.description }}</p>
+  </div>
+</footer>

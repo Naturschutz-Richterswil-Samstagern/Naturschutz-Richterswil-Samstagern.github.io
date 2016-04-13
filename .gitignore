@@ -53,3 +53,8 @@ crashlytics-build.properties
 node_modules
 npm-debug.log
 # css
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
