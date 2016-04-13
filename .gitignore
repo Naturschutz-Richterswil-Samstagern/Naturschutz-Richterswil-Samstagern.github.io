@@ -47,4 +47,9 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
-
+# Foundation 6
+.DS_Store
+# bower_components
+node_modules
+npm-debug.log
+# css
