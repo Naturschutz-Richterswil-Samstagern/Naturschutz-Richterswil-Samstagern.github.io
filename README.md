@@ -12,4 +12,4 @@ Website for [Naturschutz Richterswil-Samstagern](http://naturschutz-richterswil-
 `npm start`
 
 ### run jekyll server on port 4000
-`jekyll serve`
+`jekyll serve -w`
