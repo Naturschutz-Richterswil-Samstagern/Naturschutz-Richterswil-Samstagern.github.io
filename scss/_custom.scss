@@ -65,6 +65,14 @@ ul.post-list {
   }
 }
 
+/* ueber uns */
+/* small profile images */
+.profile-image-small {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
 /* navigation */
 /* Preventing FOUC according to http://foundation.zurb.com/sites/docs/responsive-navigation.html#preventing-fouc */
 .no-js {

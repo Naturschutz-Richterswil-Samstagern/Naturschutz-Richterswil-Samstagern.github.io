@@ -72,6 +72,13 @@ ul.post-list {
     list-style: none;
     margin: 0; }
 
+/* ueber uns */
+/* small profile images */
+.profile-image-small {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px; }
+
 /* navigation */
 /* Preventing FOUC according to http://foundation.zurb.com/sites/docs/responsive-navigation.html#preventing-fouc */
 @media screen and (max-width: 39.9375em) {
