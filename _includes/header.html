@@ -2,7 +2,7 @@
 
   <a href="{{ site.baseurl }}/">
     <div class="image-textover">
-      <img width="950" id="header-image" src="{{ page.headerimage }}" />
+      <img width="950" id="header-image" src="{% if page.headerimage != null %}{{ page.headerimage }}{% else %}/images/header/default.jpg{% endif %}" />
       <h1>{{ site.title }}</h1>
     </div>
   </a>

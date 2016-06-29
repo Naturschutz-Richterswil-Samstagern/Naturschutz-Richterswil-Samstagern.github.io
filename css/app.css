@@ -66,7 +66,7 @@ ul.post-list {
 
 /* footer */
 .footer {
-  background-color: #744324;
+  background-color: #edefde;
   padding-top: 15px; }
   .footer ul {
     list-style: none;
@@ -76,8 +76,8 @@ ul.post-list {
 /* small profile images */
 .profile-image-small {
   float: left;
-  margin-right: 10px;
-  margin-bottom: 10px; }
+  margin-right: 20px;
+  margin-bottom: 20px; }
 
 /* navigation */
 /* Preventing FOUC according to http://foundation.zurb.com/sites/docs/responsive-navigation.html#preventing-fouc */
