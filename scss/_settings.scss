@@ -565,7 +565,7 @@ $tooltip-radius: $global-radius;
 // -----------
 
 $topbar-padding: 0.5rem;
-$topbar-background: scale-color(map-get($foundation-palette, secondary), $lightness: +50%);
+$topbar-background: #edefde;
 $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 1rem;
 $topbar-input-width: 200px;

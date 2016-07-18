@@ -5,7 +5,9 @@ Website for [Naturschutz Richterswil-Samstagern](http://naturschutz-richterswil-
 
 ## News
 
+* Headerimages: `950px * 250px`
 * Leadimage: `150px * 200px`
+* Bilder Seite (iframes von flickr): `950px x 712px`
 
 ## install development
 
