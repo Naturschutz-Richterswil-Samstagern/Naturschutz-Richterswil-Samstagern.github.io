@@ -1,12 +1,11 @@
 # Naturschutz-Richterswil-Samstagern.github.io
 Website for [Naturschutz Richterswil-Samstagern](http://naturschutz-richterswil-samstagern.github.io/)
 
-# Bildergrössen
+## Bildergrössen
 
-## News
-
+* Homepage 4 Kategorien: `460px * 202px`
 * Headerimages: `950px * 250px`
-* Leadimage: `150px * 200px`
+* Leadimage News: `150px * 200px`
 * Bilder Seite (iframes von flickr): `950px x 712px`
 
 ## install development

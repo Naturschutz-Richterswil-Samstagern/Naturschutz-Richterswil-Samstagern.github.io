@@ -3,7 +3,7 @@ layout: page
 title: Mitglied werden
 titleOverwrite:  Ja, ich will Mitglied werden!
 permalink: /mitglied-werden/
-headerimage: /images/header/weiterbildung.jpg
+headerimage: /images/header/mitglied-werden.jpg
 ---
 <div class="large-4 medium-4 columns text-center">
   <img width="270" src="/images/mitglied-werden/mitglied-werden.jpg"/>

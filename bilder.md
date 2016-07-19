@@ -3,7 +3,7 @@ layout: page
 title: Bilder
 titleOverwrite: Bildergalerien
 permalink: /bilder/
-headerimage: /images/header/weiterbildung.jpg
+headerimage: /images/header/bilder.jpg
 ---
 
 ## Testgaliere von Roger
