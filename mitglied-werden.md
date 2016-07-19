@@ -5,16 +5,22 @@ titleOverwrite:  Ja, ich will Mitglied werden!
 permalink: /mitglied-werden/
 headerimage: /images/header/weiterbildung.jpg
 ---
+<div class="large-4 medium-3 columns text-center">
+  <img width="270" src="/images/mitglied-werden/mitglied-werden.jpg"/>
+</div>
+<div class="large-8 medium-9 columns">
+  <p>
+    Für Fr. 40.- pro Jahr sind Sie bei uns dabei und gleichzeitig auch bei unsern Dachverbänden. So profitieren Sie von
+    einem vergünstigten Weiterbildungsangebot und einem guten Netzwerk.
+  </p>
 
-<img style="float: left; margin-right: 30px; margin-bottom: 30px;" width="270" src="/images/mitglied-werden/mitglied-werden.jpg" />
-Für Fr. 40.- pro Jahr sind Sie bei uns dabei und gleichzeitig auch bei unsern Dachverbänden. So profitieren Sie von einem vergünstigten Weiterbildungsangebot und einem guten Netzwerk.
+  <a class="button" href="mailto:ratnaweera@naturschutz-r-s.ch">Ja, ich will Mitglied werden!</a>
 
-<a class="button" href="mailto:ratnaweera@naturschutz-r-s.ch">Ja, ich will Mitglied werden!</a>
-
-Unsere Dachverbände:
-
-* [ZVS/BirdLife Zürich](http://www.birdlife-zuerich.ch/)
-* [Schweizer Vogelschutz SVS/BirdLife Schweiz](http://www.birdlife.ch/)
-* [BirdLife International](http://www.birdlife.org/)
-
-[praesident-email]: mailto:ratnaweera@naturschutz-r-s.ch
+  <p>Unsere Dachverbände:</p>
+  
+  <ul>
+    <li><a href="http://www.birdlife-zuerich.ch/">ZVS/BirdLife Zürich</a></li>
+    <li><a href="http://www.birdlife.ch/">Schweizer Vogelschutz SVS/BirdLife Schweiz</a></li>
+    <li><a href="http://www.birdlife.org/">BirdLife International</a></li>
+  </ul>
+</div>
