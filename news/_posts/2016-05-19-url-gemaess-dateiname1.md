@@ -6,7 +6,7 @@ image: /news/images/news-demo-image.jpg
 categories: news
 published: true
 ---
-<img style="margin-right:20px;" class="float-left" src="/news/images/news-testartikel.jpg" />
+<img class="float-left mr-20" src="/news/images/news-testartikel.jpg" />
 
 Uns ists Recht, dass der Frühling und damit das Wachstum der Wiesen und Gehölze durch die moderaten Temperaturen etwas gebremst wurde.
 
