@@ -61,14 +61,6 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
     <div class="clearfix">
       <img class="profile-image-small" width="78" src="/images/ueber-uns/joe-rogenmoser.jpg"/>
 
-      <h3>Joe Rogenmoser</h3>
-      <h4>Obmann, Biotop-Pflege</h4>
-    </div>
-  </div>
-  <div style="margin-bottom:20px" class="large-12 columns">
-    <div class="clearfix">
-      <img class="profile-image-small" width="78" src="/images/ueber-uns/erich-kolb.jpg"/>
-
       <h3>Erich Kolb</h3>
       <h4>Stellvertretender Obmann, Beisitzer </h4>
     </div>
@@ -77,8 +69,8 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
     <div class="clearfix">
       <img class="profile-image-small" width="78" src="/images/ueber-uns/elisabeth-grebe.jpg"/>
 
-      <h3>Elisabeth Grebe</h3>
-      <h4>Aktuarin, Veranstaltungen</h4>
+      <h3>Erich Stöckli</h3>
+      <h4>Aktuar, Homepage</h4>
     </div>
   </div>
 </div>
