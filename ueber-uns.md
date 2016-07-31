@@ -62,9 +62,9 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
       <h3>Rose-Marie Weilenmann</h3>
       <h4>Beisitzerin, Kulinarische Fee</h4>
 
-    <p>E-Mail: <a href="blume@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
+    <p>E-Mail: <a href="weilenmann@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
 
-    <p>Adresse: Sunnengartenstrasse 4, 8805 Richterswil</p>
+    <p>Adresse: Glarnerstrasse 31, 8805 Richterswil</p>
   </div>
 </div>
 
@@ -74,13 +74,26 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
   </div>
   <div class="large-10 columns">
       <h3>Erich Kolb</h3>
-      <h4>Stellvertretender Obmann, Beisitzer </h4>
+      <h4>Stellvertretender Obmann, Beisitzer</h4>
 
-    <p>E-Mail: <a href="blume@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
+    <p>E-Mail: <a href="kolb@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
 
-    <p>Adresse: Sunnengartenstrasse 4, 8805 Richterswil</p>
+    <p>Adresse: Paulistrasse 38, 8834 Schindellegi</p>
   </div>
 </div>
 
+<div class="row" style="margin-bottom:50px;">
+  <div class="large-2 columns">
+    <img width="133" src="/images/ueber-uns/rosemarie-weilenmann.jpg"/>
+  </div>
+  <div class="large-10 columns">
+      <h3>Erich Stöckli</h3>
+      <h4>Aktuar</h4>
+
+    <p>E-Mail: <a href="stoeckli@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
+
+    <p>Adresse: Hafengüterstrasse 4c,8 805 Richterswil</p>
+  </div>
+</div>
 
 [praesident-email]: mailto:ratnaweera@naturschutz-r-s.ch
