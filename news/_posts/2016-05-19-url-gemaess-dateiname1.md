@@ -2,7 +2,7 @@
 layout: post
 title:  "Mini Monster in Samstagern"
 date:   2016-08-01 15:15:38 +0200
-image: /news/images/mini_monste.rjpg
+image: /news/images/mini_monster.jpg
 categories: news
 published: true
 ---
