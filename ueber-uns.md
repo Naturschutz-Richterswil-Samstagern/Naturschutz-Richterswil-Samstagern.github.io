@@ -26,7 +26,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/nils-ratnaweera.jpg"/>
+    <img width="133" src="/images/ueber-uns/nils_ratnaweera.jpg"/>
   </div>
   <div class="large-10 columns">
     <h3>Nils Ratnaweera</h3>
@@ -70,7 +70,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/rosemarie-weilenmann.jpg"/>
+    <img width="133" src="/images/ueber-uns/erich-kolb.jpg"/>
   </div>
   <div class="large-10 columns">
       <h3>Erich Kolb</h3>
@@ -84,7 +84,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/rosemarie-weilenmann.jpg"/>
+    <img width="133" src="/images/ueber-uns/erich_stoeckli.jpg"/>
   </div>
   <div class="large-10 columns">
       <h3>Erich Stöckli</h3>
