@@ -40,6 +40,20 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
   </div>
 </div>
 
+<div class="row" style="margin-bottom:50px;">
+  <div class="large-2 columns">
+    <img width="133" src="/images/ueber-uns/frank-blume.jpg"/>
+  </div>
+  <div class="large-10 columns">
+      <h3>Frank Blume</h3>
+      <h4>Kassier</h4>
+
+    <p>E-Mail: <a href="blume@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
+
+    <p>Adresse: Sunnengartenstrasse 4, 8805 Richterswil</p>
+  </div>
+</div>
+
 <div class="row">
   <div style="margin-bottom:20px" class="large-12 columns">
     <div class="clearfix">
