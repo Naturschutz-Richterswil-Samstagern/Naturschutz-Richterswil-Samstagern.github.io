@@ -6,7 +6,6 @@ image: /news/images/mini_monster.jpg
 categories: news
 published: true
 ---
-<img class="float-left mr-20" src="/news/images/news-testartikel.jpg" />
 
 Frank Blume vom Naturschutzverein Richterswil-Samstagern stellt kleine Monster in ihrem Lebensraum vor.
 Es gibt spannende Geschichten über kleine gefrässige Bewohner in einem naturbelassenen Gewässer zu erzählen.
