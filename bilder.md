@@ -11,7 +11,7 @@ headerimage: /images/header/bilder.jpg
 
 ## Heckenpflanzung, März 2015
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/144980889@N08/ToLPct" title="2015-04-11 Heckenpflanzung"><img src="https://c2.staticflickr.com/9/8611/27601569273_ea33af3c0f_z.jpg" width="950" height="712" alt="2015-04-11 Heckenpflanzung"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144980889@N08/albums/72157670783671176" title="2015-04-11 Heckenpflanzung"><img src="https://c2.staticflickr.com/9/8611/27601569273_ea33af3c0f_c.jpg" width="950" height="712" alt="2015-04-11 Heckenpflanzung"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a class="button expanded" href="https://www.flickr.com/gp/144980889@N08/8aMwWF">&#10095; zur Bildergalerie</a>
 
