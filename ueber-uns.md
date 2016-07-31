@@ -54,39 +54,33 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
   </div>
 </div>
 
-<div class="row">
-  <div style="margin-bottom:20px" class="large-12 columns">
-    <div class="clearfix">
-      <img class="profile-image-small" width="78" src="/images/ueber-uns/frank-blume.jpg"/>
-
-      <h3>Frank Blume</h3>
-      <h4>Kassier</h4>
-    </div>
+<div class="row" style="margin-bottom:50px;">
+  <div class="large-2 columns">
+    <img width="133" src="/images/ueber-uns/rosemarie-weilenmann.jpg"/>
   </div>
-  <div style="margin-bottom:20px" class="large-12 columns">
-    <div class="clearfix">
-      <img class="profile-image-small" width="78" src="/images/ueber-uns/rosemarie-weilenmann.jpg"/>
-
+  <div class="large-10 columns">
       <h3>Rose-Marie Weilenmann</h3>
       <h4>Beisitzerin, Kulinarische Fee</h4>
-    </div>
-  </div>
-  <div style="margin-bottom:20px" class="large-12 columns">
-    <div class="clearfix">
-      <img class="profile-image-small" width="78" src="/images/ueber-uns/joe-rogenmoser.jpg"/>
 
-      <h3>Erich Kolb</h3>
-      <h4>Stellvertretender Obmann, Beisitzer </h4>
-    </div>
-  </div>
-  <div style="margin-bottom:20px" class="large-12 columns">
-    <div class="clearfix">
-      <img class="profile-image-small" width="78" src="/images/ueber-uns/elisabeth-grebe.jpg"/>
+    <p>E-Mail: <a href="blume@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
 
-      <h3>Erich Stöckli</h3>
-      <h4>Aktuar, Homepage</h4>
-    </div>
+    <p>Adresse: Sunnengartenstrasse 4, 8805 Richterswil</p>
   </div>
 </div>
+
+<div class="row" style="margin-bottom:50px;">
+  <div class="large-2 columns">
+    <img width="133" src="/images/ueber-uns/rosemarie-weilenmann.jpg"/>
+  </div>
+  <div class="large-10 columns">
+      <h3>Erich Kolb</h3>
+      <h4>Stellvertretender Obmann, Beisitzer </h4>
+
+    <p>E-Mail: <a href="blume@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
+
+    <p>Adresse: Sunnengartenstrasse 4, 8805 Richterswil</p>
+  </div>
+</div>
+
 
 [praesident-email]: mailto:ratnaweera@naturschutz-r-s.ch
