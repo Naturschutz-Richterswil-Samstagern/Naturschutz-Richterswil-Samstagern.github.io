@@ -20,7 +20,9 @@
           {% for my_page in site.pages %}
             {% if my_page.title %}
               {% if my_page.title != "Home" %}
-                <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+                {% if my_page.title != "Ups... (404)" %}
+                 <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+                {% endif %}
               {% endif %}
             {% endif %}
           {% endfor %}
