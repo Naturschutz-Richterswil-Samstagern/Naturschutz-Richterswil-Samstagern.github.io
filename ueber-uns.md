@@ -33,11 +33,9 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
     <h3>Nils Ratnaweera</h3>
     <h4>Präsident</h4>
 
-    <p>E-Mail: <a href="mailto:ratnaweera@naturschutz-r-s.ch">ratnaweera@naturschutz-r-s.ch</a></p>
-
-    <p>Telefon: 079 220 53 21</p>
-
-    <p>Adresse: Eichmüli 7, 8820 Wädenswil</p>
+    <p>E-Mail: <a href="mailto:ratnaweera@naturschutz-r-s.ch">ratnaweera@naturschutz-r-s.ch</a><br>
+    Telefon: 079 220 53 21<br>
+    Adresse: Eichmüli 7, 8820 Wädenswil</p>
   </div>
 </div>
 
