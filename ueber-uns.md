@@ -56,7 +56,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/rosemarie-weilenmann.jpg"/>
+    <img width="133" src="/images/ueber-uns/rose-marie_weilenmann.png"/>
   </div>
   <div class="large-10 columns">
       <h3>Rose-Marie Weilenmann</h3>
