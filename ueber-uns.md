@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Über uns
-titleOverwrite: Das sind wir, das machen wir...
+titleOverwrite: 'Das sind wir, das machen wir...'
 permalink: /ueber-uns/
 headerimage: /images/header/ueber-uns.jpg
+published: true
 ---
 
 * Wir sind ein Verein mit ca. 180 Mitgliedern
@@ -32,7 +33,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
     <h3>Nils Ratnaweera</h3>
     <h4>Präsident</h4>
 
-    <p>E-Mail: <a href="ratnaweera@naturschutz-r-s.ch">ratnaweera@naturschutz-r-s.ch</a></p>
+    <p>E-Mail: <a href="mailto:ratnaweera@naturschutz-r-s.ch">ratnaweera@naturschutz-r-s.ch</a></p>
 
     <p>Telefon: 079 220 53 21</p>
 
@@ -48,9 +49,8 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
       <h3>Frank Blume</h3>
       <h4>Kassier</h4>
 
-    <p>E-Mail: <a href="blume@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
-
-    <p>Adresse: Sunnengartenstrasse 4, 8805 Richterswil</p>
+    <p>E-Mail: <a href="mailto:blume@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a><br>
+    Adresse: Sunnengartenstrasse 4, 8805 Richterswil</p>
   </div>
 </div>
 
@@ -62,9 +62,8 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
       <h3>Rose-Marie Weilenmann</h3>
       <h4>Beisitzerin, Kulinarische Fee</h4>
 
-    <p>E-Mail: <a href="weilenmann@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
-
-    <p>Adresse: Glarnerstrasse 31, 8805 Richterswil</p>
+    <p>E-Mail: <a href="mailto:weilenmann@naturschutz-r-s.ch">weilenmann@naturschutz-r-s.ch</a><br>
+    Adresse: Glarnerstrasse 31, 8805 Richterswil</p>
   </div>
 </div>
 
@@ -76,9 +75,8 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
       <h3>Erich Kolb</h3>
       <h4>Stellvertretender Obmann, Beisitzer</h4>
 
-    <p>E-Mail: <a href="kolb@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
-
-    <p>Adresse: Paulistrasse 38, 8834 Schindellegi</p>
+    <p>E-Mail: <a href="mailto:kolb@naturschutz-r-s.ch">kolb@naturschutz-r-s.ch</a><br>
+    Adresse: Paulistrasse 38, 8834 Schindellegi</p>
   </div>
 </div>
 
@@ -90,9 +88,8 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
       <h3>Erich Stöckli</h3>
       <h4>Aktuar</h4>
 
-    <p>E-Mail: <a href="stoeckli@naturschutz-r-s.ch">blume@naturschutz-r-s.ch</a></p>
-
-    <p>Adresse: Hafengüterstrasse 4c,8 805 Richterswil</p>
+    <p>E-Mail: <a href="mailto:stoeckli@naturschutz-r-s.ch">stoeckli@naturschutz-r-s.ch</a><br>
+    Adresse: Hafengüterstrasse 4c,8 805 Richterswil</p>
   </div>
 </div>
 
