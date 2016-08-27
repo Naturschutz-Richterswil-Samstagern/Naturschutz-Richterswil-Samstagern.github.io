@@ -41,6 +41,13 @@ body {
   max-width: 100%;
   max-height: 90vh; }
 
+.logo {
+  -webkit-filter: drop-shadow(5px 5px 5px #dedede);
+  filter: drop-shadow(5px 5px 5px #dedede); }
+
+.logo.show-for-small-only {
+  margin: -15px -10px; }
+
 /* image textover according to https://css-tricks.com/text-blocks-over-image/ */
 .image-textover {
   position: relative;
