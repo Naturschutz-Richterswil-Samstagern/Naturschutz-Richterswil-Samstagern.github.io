@@ -1,0 +1,22 @@
+---
+layout: page
+title: News
+permalink: /news/
+headerimage: /images/header/news.jpg
+---
+
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li class="clearfix">
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <img style="margin-right:20px;" class="float-left" src="{{post.image}}" width="150"/>
+
+    <p>{{ post.content | strip_html | truncatewords: 80 }}
+      <br>
+      <a class="button" href="{{ post.url | prepend: site.baseurl }}">&#10095; <b>mehr anzeigen</b></a>
+    </p>
+  </li>
+  {% endfor %}
+</ul>

@@ -18,3 +18,10 @@ github_username: rschaerer
 
 # Build settings
 markdown: kramdown
+
+# How to handle permalinks in the front matter
+relative_permalinks: false
+
+# Reading Files
+include:
+  - _pages
