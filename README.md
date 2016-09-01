@@ -26,7 +26,7 @@ Eine neue Bildergalerie kann wie folgt eingefügt werden:
 0. [GitHub Benutzerkonto erstellen](https://github.com/join), E-Mail Benachrichtigung bestätigen, Für das Bearbeiten dieses Projektes freischalten lassen.
 1. [Flickr Benutzerkonto erstellen](https://login.yahoo.com/account/create)
 2. [Flickr Album erstellen](https://de.hilfe.yahoo.com/kb/SLN22155.html#cont1) und Bilder hochladen.
-3. In der Flickr Albumansicht auf den **Album Teilen** Pfeil klicken <img src="/images/readme/bildergalerie-hinzufuegen-1.jpg" />, dort den Tab **Embed** auswählen und die Codezeile in die Zwischenablage kopieren. Die Codzeile beginnt mit ``<a data-flickr-embed="true"  href="https://www.flickr.com/...` <br> <img src="images/readme/bildergalerie-hinzufuegen-2.jpg" />
+3. In der Flickr Albumansicht auf den **Album Teilen** Pfeil klicken ![Flickr Album Teilen Pfeil](/images/readme/bildergalerie-hinzufuegen-1.jpg), dort den Tab **Embed** auswählen und die Codezeile in die Zwischenablage kopieren. Die Codzeile beginnt mit ``<a data-flickr-embed="true"  href="https://www.flickr.com/...` <br> ![Embed Code von Flickr](/images/readme/bildergalerie-hinzufuegen-2.jpg)
 4. Auf [prose.io](http://prose.io/) anmelden und in der Datei `/_pages/bilder.md` einen neuen Bildergalerie Block hinzufügen.
 
 ### Bildergalerie Block
