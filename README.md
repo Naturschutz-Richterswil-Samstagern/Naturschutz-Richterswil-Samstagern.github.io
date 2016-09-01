@@ -11,11 +11,41 @@ Website for [Naturschutz Richterswil-Samstagern](http://naturschutz-richterswil-
 
 ## Newsbeitrag hinzufügen
 
-1. Neue Datei in Ordner `/news/_posts/` anlegen mit dem Dateiname: `YYYY-MM-DD-url-pfad-der-angezeigt-werden-soll.md` (am besten eine bestehende Datei kopieren).
-2. In der News-Datei im Header die Attribute `date:` und `image:` setzen. Das `image:` wird auf der Übersichtsseite aller Newsartikel angezeigt.
+1. Neue Datei in Ordner `/_posts/` anlegen mit dem Dateiname: `YYYY-MM-DD-url-pfad-der-angezeigt-werden-soll.md` (am besten eine bestehende Datei kopieren).
+2. In der News-Datei im Header die Attribute `date:` und `image:` setzen. Das `image:` wird auf der Übersichtsseite aller Newsartikel angezeigt. Das Bild im Ordner `/images/news/` ablegen.
 3. Bilder können innerhalb des Artikels fliessen links oder rechts dargestellt werden. HTML Code dafür:
-  * Links: `<img class="float-left mr-20" src="/news/images/platzhalter.jpg" />`
-  * Rechts: `<img class="float-right ml-20" src="/news/images/platzhalter.jpg" />`
+  * Links: `<img class="float-left mr-20" src="/images/news/platzhalter.jpg" />`
+  * Rechts: `<img class="float-right ml-20" src="/images/news/platzhalter.jpg" />`
+
+## Bildergalerie hinzufügen
+
+Bilder werden nicht direkt in diesem Projekt abgelegt, sondern via [Flickr](https://www.flickr.com/) ALben eingebunden.
+
+Eine neue Bildergalerie kann wie folgt eingefügt werden:
+
+0. [GitHub Benutzerkonto erstellen](https://github.com/join), E-Mail Benachrichtigung bestätigen, Für das Bearbeiten dieses Projektes freischalten lassen
+1. [flickr Benutzerkonto erstellen](https://login.yahoo.com/account/create)
+2. [flickr Album erstellen](https://de.hilfe.yahoo.com/kb/SLN22155.html#cont1) und Bilder hochladen.
+3. In der Albumansicht auf Flickr auf den `Album Teilen` Pfeil klicken, dort den Tab `Embed` auswählen und die Codezeile in die Zwischenablage kopieren.
+4. Auf [prose.io](http://prose.io/) anmelden und die Datei `/_pages/bilder.md` neuen Galerieblock hinzufügen.
+
+# Bildergalerie Block
+
+Ein Bildergalerieblock in der Datei `/_pages/bilder.md` besteht aus drei Elementen:
+
+1. Dem Titel: `## Titel, Monat Jahr`, z.B. `## Heckenpflanzung, März 2015`
+2. Dem Flickr embed code, der auf Flicker im Album zu finden ist (siehe oben). Wichtig ist, dass in diesem Block die Breite (width) und Höhe (height) des Vorschaubildes auf `width="950" height="712"` geändert werden, nachdem der embed code von Flickr kopiert wurde: `<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144980889@N08/albums/72157670783671176" title="2015-04-11 Heckenpflanzung"><img src="https://c2.staticflickr.com/9/8611/27601569273_ea33af3c0f_z.jpg" width="950" height="712" alt="2015-04-11 Heckenpflanzung"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>`
+3. Dem Button um direkt zur Bildergaliere auf Flick zu gelangen. Hier muss der Link zur Gallerie auf Flickr in `[LINK-ZUR-BILDERGALIERE-AUF-FLICKR]` eingetragen werden. `<a class="button expanded" href="[LINK-ZUR-BILDERGALIERE-AUF-FLICKR]">&#10095; zur Bildergalerie</a>`
+
+## Beispiel eines funktionierenden Bildergalerie Blocks
+
+```markdown
+## Heckenpflanzung, März 2015
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144980889@N08/albums/72157670783671176" title="2015-04-11 Heckenpflanzung"><img src="https://c2.staticflickr.com/9/8611/27601569273_ea33af3c0f_z.jpg" width="950" height="712" alt="2015-04-11 Heckenpflanzung"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a class="button expanded" href="https://www.flickr.com/gp/144980889@N08/8aMwWF">&#10095; zur Bildergalerie</a>
+```
 
 ## Entwicklungsumgebung installieren
 
