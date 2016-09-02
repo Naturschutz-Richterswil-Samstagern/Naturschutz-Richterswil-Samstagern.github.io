@@ -4,8 +4,14 @@ title: Bilder
 titleOverwrite: Bildergalerien
 permalink: /bilder/
 headerimage: /images/header/bilder.jpg
-published: true
+published: false
 ---
+
+## Exkursion Frank, August 2016
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/146766715@N05/dm4792" title="Exkursion Frank 28.8.2016"><img src="https://c5.staticflickr.com/9/8553/29273267652_e06cd6b130_z.jpg" width="950" height="712" alt="Exkursion Frank 28.8.2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a class="button expanded" href="https://www.flickr.com/gp/144980889@N08/7Ea2Uw">&#10095; zur Bildergalerie</a>
 
 ## Vortrag Frank, November 2015
 
