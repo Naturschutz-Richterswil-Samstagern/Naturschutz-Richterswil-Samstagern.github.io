@@ -29,7 +29,7 @@ include:
 prose:
   media: 'media'
   metadata:
-    _posts:
+    _pages:
       - name: "layout"
         field:
           element: "hidden"
