@@ -27,6 +27,7 @@ include:
   - _pages
 
 prose:
+  media: 'media'
   metadata:
     _pages:
       - name: "published"
