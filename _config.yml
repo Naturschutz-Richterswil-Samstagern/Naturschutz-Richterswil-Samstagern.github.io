@@ -38,3 +38,8 @@ prose:
           element: "checkbox"
           label: "Veröffentlicht"
           value: "true"
+      - name: "titleOverwrite"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
