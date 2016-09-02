@@ -4,7 +4,7 @@ title: Bilder
 titleOverwrite: Bildergalerien
 permalink: /bilder/
 headerimage: /images/header/bilder.jpg
-published: false
+published: 'true'
 ---
 
 ## Exkursion Frank, August 2016
