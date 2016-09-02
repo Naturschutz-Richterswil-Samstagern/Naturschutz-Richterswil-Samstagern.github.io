@@ -55,3 +55,23 @@ prose:
           label: "Header Bild"
           value: ""
           placeholder: "z.B. /images/header/mach-mit.jpg"
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Veröffentlicht"
+          value: "true"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Bild"
+          value: ""
+          placeholder: "z.B. /images/news/mini_monster.jpg"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "news"
