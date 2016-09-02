@@ -9,9 +9,9 @@ published: 'true'
 
 ## Exkursion Frank, August 2016
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/146766715@N05/dm4792" title="Exkursion Frank 28.8.2016"><img src="https://c5.staticflickr.com/9/8553/29273267652_e06cd6b130_z.jpg" width="950" height="712" alt="Exkursion Frank 28.8.2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/146766715@N05/albums/72157670103658283" title="Exkursion Frank 28.8.2016"><img src="https://c6.staticflickr.com/9/8792/28781702293_3ba3a71cf8_z.jpg" width="950" height="712" alt="Exkursion Frank 28.8.2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a class="button expanded" href="https://www.flickr.com/gp/144980889@N08/7Ea2Uw">&#10095; zur Bildergalerie</a>
+<a class="button expanded" href="https://www.flickr.com/photos/146766715@N05/sets/72157672059693860/">&#10095; zur Bildergalerie</a>
 
 ## Vortrag Frank, November 2015
 
