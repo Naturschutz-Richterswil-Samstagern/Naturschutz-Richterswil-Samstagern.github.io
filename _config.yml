@@ -52,6 +52,6 @@ prose:
       - name: "headerimage"
         field:
           element: "text"
-          label: "Titel"
+          label: "Header Bild"
           value: ""
           placeholder: "z.B. /images/header/mach-mit.jpg"
