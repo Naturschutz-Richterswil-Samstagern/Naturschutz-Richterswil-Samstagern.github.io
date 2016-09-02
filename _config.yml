@@ -32,24 +32,26 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
           value: "page"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Veröffentlicht"
+          value: "true"
+      - name: "titleOverwrite"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
           label: "Permalink"
           value: ""
+          placeholder: "z.B. /bilder/"
+       - name: "headerimage"
+         field:
+           element: "text"
+           label: "Titel"
+           value: ""
+           placeholder: "z.B. /images/header/mach-mit.jpg"
