@@ -43,3 +43,9 @@ prose:
           element: "text"
           label: "Titel"
           value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+          placeholder: "z.B. /bilder/"
