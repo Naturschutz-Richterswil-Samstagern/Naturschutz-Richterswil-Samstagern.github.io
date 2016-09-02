@@ -30,8 +30,29 @@ prose:
   media: 'media'
   metadata:
     _pages:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
       - name: "published"
         field:
           element: "checkbox"
-          label: "Seite veröffentlicht"
+          label: "Veröffentlicht"
           value: true
+      - name: "titleOverwrite"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+          placeholder: "z.B. /bilder/"
+       - name: "headerimage"
+        field:
+          element: "text"
+          label: "Titel"
+          value: ""
+          placeholder: "z.B. /images/header/mach-mit.jpg"
