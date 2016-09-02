@@ -49,10 +49,10 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-          placeholder: "z.B. /bilder/"
+#          placeholder: "z.B. /bilder/"
        - name: "headerimage"
          field:
            element: "text"
            label: "Titel"
            value: ""
-           placeholder: "z.B. /images/header/mach-mit.jpg"
+#           placeholder: "z.B. /images/header/mach-mit.jpg"
