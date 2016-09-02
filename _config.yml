@@ -25,3 +25,12 @@ relative_permalinks: false
 # Reading Files
 include:
   - _pages
+
+prose:
+  metadata:
+    _pages:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Seite veröffentlicht"
+          value: true
