@@ -75,3 +75,9 @@ prose:
         field:
           element: "hidden"
           value: "news"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Datum"
+          value: "CURRENT_DATETIME"
+          placeholder: "z.B. 2016-08-01 15:15:38 +0200"
