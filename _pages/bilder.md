@@ -11,7 +11,7 @@ published: 'true'
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/146766715@N05/albums/72157673212383986" title="Exkursion Frank"><img src="https://c8.staticflickr.com/9/8481/28781779903_d282a89e57_z.jpg" width="950" height="712" alt="Exkursion Frank"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a class="button expanded" href="https://www.flickr.com/photos/146766715@N05/sets/72157672059693860/">&#10095; zur Bildergalerie</a>
+<a class="button expanded" href="https://www.flickr.com/photos/146766715@N05/albums/72157673212383986">&#10095; zur Bildergalerie</a>
 
 ## Vortrag Frank, November 2015
 
