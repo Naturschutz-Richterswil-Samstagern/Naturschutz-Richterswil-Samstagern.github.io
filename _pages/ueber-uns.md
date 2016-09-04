@@ -87,7 +87,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
       <h4>Aktuar</h4>
 
     <p>E-Mail: <a href="mailto:stoeckli@naturschutz-r-s.ch">stoeckli@naturschutz-r-s.ch</a><br>
-    Adresse: Hafengüterstrasse 4c,8 805 Richterswil</p>
+    Adresse: Hafengüterstrasse 4c, 8805 Richterswil</p>
   </div>
 </div>
 
