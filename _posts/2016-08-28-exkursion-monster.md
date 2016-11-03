@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mini Monster in Samstagern"
+title:  "Exkursion: Waldkauz im Reidholz"
 date:   2016-08-01 15:15:38 +0200
-image: /images/news/mini_monster.jpg
+image: 
 categories: news
 published: true
 ---
