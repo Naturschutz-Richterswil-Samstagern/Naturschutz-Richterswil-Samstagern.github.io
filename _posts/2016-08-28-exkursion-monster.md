@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exkursion: Waldkauz im Reidholz"
-date:   2016-08-01 15:15:38 +0200
+date:   2016-12-11 15:15:38 +0200
 image: 
 categories: news
 published: true
