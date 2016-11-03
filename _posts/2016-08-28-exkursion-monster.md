@@ -7,12 +7,17 @@ categories: news
 published: true
 ---
 
-Frank Blume vom Naturschutzverein Richterswil-Samstagern stellt kleine Monster in ihrem Lebensraum vor.
-Es gibt spannende Geschichten über kleine gefrässige Bewohner in einem naturbelassenen Gewässer zu erzählen.
-Wir freuen uns auf Ihre Teilnahme. Es ist keine Anmeldung nötig.
+Nach Einbruch der Dunkelheit sind die heulenden Balzrufe des Waldkauzmännchens zu hören, dem das Weibchen gellend antwortet.
 
-Datum: Sonntag, 28. August 2016
+Kommen Sie mit auf ein schaurig schönes, unvergessliches Erlebnis kurz vor Vollmond.
 
-Treffpunkt: 13.00 Uhr beim Biotop obere Schwanden, Samstagern (<a href="https://map.geo.admin.ch/?topic=ech&lang=de&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&layers_visibility=false,false,false,false&layers_timestamp=18641231,,,&X=228528&Y=694007&zoom=10&crosshair=marker" target="_blank">auf Karte anzeigen</a>)
+Leitung: Frank Blume, Naturschutz Richterswil - Samstagern
 
-<iframe src="https://map.geo.admin.ch/embed.html?topic=ech&amp;lang=de&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege&amp;layers_visibility=false,false,false,false&amp;layers_timestamp=18641231,,,&amp;X=228528&amp;Y=694007&amp;zoom=10&amp;crosshair=marker" style="border:0" frameborder="0" height="450" width="750"></iframe>
+Treffpunkt: 17.40 Uhr beim Eingang in den Reidholzweg auf Höhe Reidbach-Weiher bzw. Einsiedlerstr. 31a, Wädenswil
+Oder um 18.00 Uhr direkt beim Armbrustschützenhaus an der Reidholzstrasse 21, 8805 Richterswil
+
+Anreise: Wädenswil ab 17.34 Uhr mit S13 bis Haltestelle Burghalden für TP Armbrustschützenhaus. Fahrplanwechsel vorbehalten!
+Haltestelle Campus Reidbach für TP Reidbach-Weiher am Sonntag nicht bedient.
+
+Ausrüstung: Der Witterung angepasste, warme Kleidung, ev. Stirnlampe.
+Auskunft: Die Exkursion findet bei Dauerregen nicht statt. Am Vorabend bei zweifelhafter Witterung bei Frank Blume bzw. 043 537 93 45
