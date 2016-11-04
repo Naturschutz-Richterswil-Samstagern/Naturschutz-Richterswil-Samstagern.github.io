@@ -16,6 +16,10 @@ Kommen Sie mit auf ein schaurig schönes, unvergessliches Erlebnis kurz vor Voll
 
 Leitung: Frank Blume, Naturschutz Richterswil - Samstagern
 
+Sonntag, 11. Dezember 2016
+Zeit: 18:00 Uhr
+Dauer: ca. 1.5 Std.
+
 _Treffpunkt: 17.40 Uhr beim Eingang in den Reidholzweg auf Höhe Reidbach-Weiher bzw. [Einsiedlerstr. 31a, Wädenswil](http://map.search.ch/richterswil/reidholzstr.21?poi=-&b=high)
 Oder um 18.00 Uhr direkt beim Armbrustschützenhaus an der Reidholzstrasse 21, 8805 Richterswil_
 
