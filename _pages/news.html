@@ -13,7 +13,7 @@ headerimage: /images/header/news.jpg
     </h2>
     <img style="margin-right:20px;" class="float-left" src="{{post.image}}" width="150"/>
 
-    <p>{{ post.content | truncatewords: 80 }}
+    <p>{{ post.tagline }}
       <br>
       <a class="button" href="{{ post.url | prepend: site.baseurl }}">&#10095; <b>mehr anzeigen</b></a>
     </p>
