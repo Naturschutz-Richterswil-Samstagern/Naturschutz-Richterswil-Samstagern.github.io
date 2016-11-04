@@ -17,7 +17,7 @@ Kommen Sie mit auf ein schaurig schönes, unvergessliches Erlebnis kurz vor Voll
 
 Leitung: Frank Blume, Naturschutz Richterswil - Samstagern
 
-Sonntag, 11. Dezember 2016
+**Sonntag, 11. Dezember 2016**
 Zeit: 18:00 Uhr
 Dauer: ca. 1.5 Std.
 
