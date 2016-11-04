@@ -7,10 +7,8 @@ image: /images/news/20140812-nabu-waldkauz-tom-dove.jpeg
 published: true
 tagline: >-
   Nach Einbruch der Dunkelheit sind die heulenden Balzrufe des Waldkauzmännchens
-  zu hören, dem das Weibchen gellend antwortet. 
-
-  Kommen Sie mit auf ein schaurig schönes, unvergessliches Erlebnis kurz vor
-  Vollmond
+  zu hören, dem das Weibchen gellend antwortet. Kommen Sie mit auf ein schaurig
+  schönes, unvergessliches Erlebnis kurz vor Vollmond
 ---
 
 Nach Einbruch der Dunkelheit sind die heulenden Balzrufe des Waldkauzmännchens zu hören, dem das Weibchen gellend antwortet.
