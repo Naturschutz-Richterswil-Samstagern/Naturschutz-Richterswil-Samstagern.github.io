@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Exkursion: Waldkauz im Reidholz"
+title:  "Mini Monster in Samstagern"
 date:   2016-12-11 15:15:38 +0200
-image: 
+image: /images/news/mini_monster.jpg
 categories: news
-published: true
+qpublished: true
 ---
 
 Nach Einbruch der Dunkelheit sind die heulenden Balzrufe des Waldkauzmännchens zu hören, dem das Weibchen gellend antwortet.
