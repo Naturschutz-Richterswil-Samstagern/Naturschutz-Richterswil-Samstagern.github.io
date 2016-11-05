@@ -5,9 +5,7 @@ title: Exkursion Waldkauz
 date: '2016-11-04 15:15:38 +0200'
 image: /images/news/csm_3140u_Waldka.jpg
 published: true
-tagline: >-
-  Der Naturschutz Wädenswil lädt zur Veranstaltung zur nächtliche Kauzpirsch
-  ein.
+tagline: Der Naturschutz Wädenswil lädt zur nächtliche Kauzpirsch ein.
 ---
 
 Nach Einbruch der Dunkelheit sind die heulenden Balzrufe des Waldkauzmännchens zu hören, dem das Weibchen gellend antwortet.
