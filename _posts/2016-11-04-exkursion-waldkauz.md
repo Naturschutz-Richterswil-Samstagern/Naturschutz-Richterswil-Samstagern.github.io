@@ -4,7 +4,7 @@ layout: post
 title: Exkursion Waldkauz
 date: '2016-11-04 15:15:38 +0200'
 image: /images/news/csm_3140u_Waldka.jpg
-published: true
+published: false
 tagline: Der Naturschutz Wädenswil lädt zur nächtliche Kauzpirsch ein.
 ---
 
