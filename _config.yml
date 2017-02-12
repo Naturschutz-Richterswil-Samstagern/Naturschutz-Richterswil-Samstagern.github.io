@@ -90,6 +90,12 @@ prose:
           label: "Datum"
           value: "CURRENT_DATETIME"
           placeholder: "z.B. 2016-08-01 15:15:38 +0200"
+      - name: "tagline"
+        field:
+          element: "text"
+          label: "Schlagzeile (Tagline)"
+          value: ""
+          placeholder: "Text der als Zusammenfassung auf der Übersichtseite angezeigt wird"
       - name: "veranstalungsdatumUndZeit"
         field:
           element: "text"
@@ -102,9 +108,3 @@ prose:
           label: "Ort (nur bei Veranstaltungen ausfüllen)"
           value: ""
           placeholder: "z.B. Haus zum Bären, Dorfbachstrasse 12, Richterswil"
-      - name: "tagline"
-        field:
-          element: "text"
-          label: "Schlagzeile (Tagline)"
-          value: ""
-          placeholder: "Text der als Zusammenfassung auf der Übersichtseite angezeigt wird"
