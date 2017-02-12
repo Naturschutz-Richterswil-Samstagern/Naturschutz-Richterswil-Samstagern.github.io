@@ -22,6 +22,9 @@ markdown: kramdown
 # How to handle permalinks in the front matter
 relative_permalinks: false
 
+# Publish posts or collection documents with a future date
+future: true
+
 # Reading Files
 include:
   - _pages

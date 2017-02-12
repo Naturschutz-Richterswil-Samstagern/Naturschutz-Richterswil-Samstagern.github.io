@@ -1,0 +1,41 @@
+---
+layout: page
+title: Veranstaltungen
+permalink: /veranstaltungen/
+headerimage: /images/header/mach-mit.jpg
+---
+&nbsp;<br>
+<ul class="post-list">
+  {% for post in site.categories.veranstaltungen %}
+  <li class="clearfix">
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <img style="margin-right:20px;" class="float-left" src="{{post.image}}" width="150"/>
+
+    <p>
+      <b>Datum: {{ post.veranstalungsdatumUndZeit }}</b><br>
+      <b>Ort: {{ post.ort }}</b><br>
+
+      {{ post.tagline }}
+      <br>
+      <a class="button" href="{{ post.url | prepend: site.baseurl }}">&#10095; <b>mehr anzeigen</b></a>
+    </p>
+  </li>
+  <hr>
+  {% endfor %}
+</ul>
+
+<h2>Aktiv werden, mitmachen!</h2>
+<p>Falls Sie gerne mal die Ärmel hochkrempeln, können Sie mit uns auch praktisch der Natur "unter die Flügel greifen":</p>
+
+<ul>
+  <li>Wir hegen unser Vereinsbiotop, um Tieren und Pflanzen eine Heimat zu bieten</li>
+  <li>helfen Bauern beim Auflesen ihres Mostobsts zur Förderung der Hochstammobstbäume</li>
+  <li>betreuen gut 200 Nisthilfen</li>
+  <li>rücken gegen Neopyhten aus</li>
+  <li>verkaufen Wildstauden am Frühlingsmarkt in Richterswil</li>
+  <li>pflanzen Hecken oder werten Waldränder auf</li>
+</ul>
+
+<a class="button" href="mailto:ratnaweera@naturschutz-r-s.ch">Infos & Kontakt</a>
