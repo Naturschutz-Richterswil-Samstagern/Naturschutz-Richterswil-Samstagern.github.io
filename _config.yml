@@ -93,13 +93,13 @@ prose:
       - name: "veranstalungsdatumUndZeit"
         field:
           element: "text"
-          label: "Veranstalungsdatum und Zeit"
+          label: "Veranstalungsdatum und Zeit (nur bei Veranstaltugen ausfüllen)"
           value: ""
           placeholder: "z.B. Donnerstag 6. April 2017 19:45-21:00"
       - name: "ort"
         field:
           element: "text"
-          label: "Ort"
+          label: "Ort (nur bei Veranstaltugen ausfüllen)"
           value: ""
           placeholder: "z.B. Haus zum Bären, Dorfbachstrasse 12, Richterswil"
       - name: "tagline"
