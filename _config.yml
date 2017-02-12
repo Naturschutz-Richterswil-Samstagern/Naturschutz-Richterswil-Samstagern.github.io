@@ -76,11 +76,35 @@ prose:
           placeholder: "z.B. /images/news/mini_monster.jpg"
       - name: "categories"
         field:
-          element: "hidden"
-          value: "news"
+          element: "select"
+          label: "Kategorie"
+          help: "Kategorie in der dieser Beitrag erscheinen soll."
+          options:
+            - name: 'News'
+              value: 'news'
+            - name: 'Veranstaltungen'
+              value: 'veranstaltungen'
       - name: "date"
         field:
           element: "text"
           label: "Datum"
           value: "CURRENT_DATETIME"
           placeholder: "z.B. 2016-08-01 15:15:38 +0200"
+      - name: "veranstalungsdatumUndZeit"
+        field:
+          element: "text"
+          label: "Veranstalungsdatum und Zeit"
+          value: ""
+          placeholder: "z.B. Donnerstag 6. April 2017 19:45-21:00"
+      - name: "ort"
+        field:
+          element: "text"
+          label: "Ort"
+          value: ""
+          placeholder: "z.B. Haus zum Bären, Dorfbachstrasse 12, Richterswil"
+      - name: "tagline"
+        field:
+          element: "text"
+          label: "Schlagzeile (Tagline)"
+          value: ""
+          placeholder: "Text der als Zusammenfassung auf der Übersichtseite angezeigt wird"
