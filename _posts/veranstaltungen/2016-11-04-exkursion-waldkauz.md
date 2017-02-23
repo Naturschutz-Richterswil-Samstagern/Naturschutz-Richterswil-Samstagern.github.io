@@ -6,7 +6,7 @@ date: '2016-11-04 15:15:38 +0200'
 veranstalungsdatumUndZeit: 'Sonntag, 11. Dezember 2016 18:00 (Dauer: ca. 1.5 Std.)'
 ort: 'Eingang in den Reidholzweg auf Höhe Reidbach-Weiher bzw. Einsiedlerstr. 31a, Wädenswil'
 image: /images/news/csm_3140u_Waldka.jpg
-published: true
+published: false
 tagline: Der Naturschutz Wädenswil lädt zur nächtliche Kauzpirsch ein.
 ---
 
