@@ -7,7 +7,7 @@ veranstalungsdatumUndZeit: 'Samstag, 29. April 2017 09:00 - 16:00 Uhr'
 ort: 'Wisshusplatz und auf einem Abschnitt der Dorfstrasse in Richterswil'
 image: /images/news/GV2017.jpg
 published: true
-tagline: Frühlingsmarkt Richterswil vom 29.4.2017 09:00 - 16:00 Uhr
+tagline: Frühlingsmarkt Richterswil
 ---
 
 ## Frühlingsmarkt Richterswil & Vorstellung Projekt „TubeCam“
@@ -22,4 +22,4 @@ Zu diesem Anlass stellen wir Ihnen das Projekt **"TubeCam"** vor.
 Dieses Projekt dient der Entwicklung einer neuen Nachweismethodik für Kleinsäuger mit Fokus auf Kleinmusteliden und Schläfer. Dazu haben wir auch einen Prototyp auf unserem Stand.
 
 Das Projekt „TubeCam“ von unserem Präsidenten Nils Ratnaweera vorgestellt.
-Sie können sich zusätzlich unter  dem Link [Projekt "TubeCam"](https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/wildtiermanagement/referenzprojekte/tubecam/)über das Projekt informieren.
+Sie können sich zusätzlich unter  dem Link [Projekt "TubeCam"](https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/wildtiermanagement/referenzprojekte/tubecam/) über das Projekt informieren.
