@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Mutierte Regenwürmer in Richterswil?
 published: true
 categories: veranstaltungen
 date: '2017-02-26 16:15 +0100'
