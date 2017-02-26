@@ -9,8 +9,6 @@ veranstalungsdatumUndZeit: 'Sonntag 30. April 2017 14:00-15:00 Uhr'
 ort: 'Haus zum Bären, Dorfbachstrasse 12, Richterswil'
 image: /images/news/blindschleiche.jpg
 ---
-## Mutierte Regenwürmer in Richterswil?
-
 **Datum: Sonntag 30. April 2017 14:00-15:00 Uhr**
 
 Ort:   Haus zum Bären, Dorfbachstrasse 12, Richterswil
