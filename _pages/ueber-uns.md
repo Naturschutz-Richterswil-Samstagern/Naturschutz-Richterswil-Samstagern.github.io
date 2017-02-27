@@ -91,4 +91,19 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
   </div>
 </div>
 
+<div class="row" style="margin-bottom:50px;">
+  <div class="large-2 columns">
+    <img width="133" src="/images/ueber-uns/joe.jpg"/>
+  </div>
+  <div class="large-10 columns">
+      <h3>Joe Rogenmoser</h3>
+      <h4>Obmann</h4>
+
+    <p>E-Mail: <a href="mailto:rogenmoser@naturschutz-r-s.ch">rogenmoser@naturschutz-r-s.ch</a><br>
+    Telegon: 044 785 09 81<br>
+    Adresse: Mülibachstrasse 46, 8805 Richterswil</p>
+  </div>
+</div>
+
+
 [praesident-email]: mailto:ratnaweera@naturschutz-r-s.ch
