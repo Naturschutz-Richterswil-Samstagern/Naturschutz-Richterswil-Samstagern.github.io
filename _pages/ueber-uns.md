@@ -99,7 +99,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
       <h3>Joe Rogenmoser</h3>
       <h4>Obmann</h4>
 
-    <p>E-Mail: <a href="mailto:rogenmoser@naturschutz-r-s.ch">rogenmoser@naturschutz-r-s.ch</a><br>
+    <p>E-Mail: <a href="mailto:joyoro@bluewin.ch ">joyoro@bluewin.ch </a><br>
     Telefon: 044 785 09 81<br>
     Adresse: Mülibachstrasse 46, 8805 Richterswil</p>
   </div>
