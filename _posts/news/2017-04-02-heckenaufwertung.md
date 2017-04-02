@@ -3,7 +3,7 @@ categories: news
 layout: post
 title: Heckenaufwertung beim Oberschwandenhof
 date: '2017-04-02 09:42 +0100'
-image: /images/news/GV2017.jpg
+image: /images/news/oberschwandenhof.jpg
 published: true
 tagline: Heckenaufwertung beim Oberschwandenhof
 ---
