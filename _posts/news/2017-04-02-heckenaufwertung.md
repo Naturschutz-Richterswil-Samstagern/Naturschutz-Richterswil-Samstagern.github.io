@@ -8,7 +8,7 @@ published: true
 tagline: Heckenaufwertung beim Oberschwandenhof
 ---
 
-**Heckenaufwertung beim Oberschwandenhof“**
+**Heckenaufwertung beim Oberschwandenhof**
 
 Datum: Samstag 8. April, 9:45 - ca. 16 Uhr
 
