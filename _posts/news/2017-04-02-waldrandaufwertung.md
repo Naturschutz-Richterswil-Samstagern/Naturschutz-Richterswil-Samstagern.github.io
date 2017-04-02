@@ -3,7 +3,7 @@ categories: news
 layout: post
 title: Waldrandaufwertung Reidholz
 date: '2017-04-02 09:42 +0100'
-image: /images/news/oberschwandenhof.jpg
+image: /images/news/reidholz.jpg
 published: true
 tagline: Samstag 29. April, 9:50 - ca. 16:30 Uhr
 ---
