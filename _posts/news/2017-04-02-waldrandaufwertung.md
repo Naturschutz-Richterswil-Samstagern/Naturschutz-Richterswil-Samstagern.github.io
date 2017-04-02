@@ -24,5 +24,3 @@ Waldrandaufwertung Reidholz:
 * Informationsaustausch
 * Zwischenverpflegung und Zmittag offeriert
 * feldtaugliche Kleidung und Handschuhe von Vorteil
-
-[Flyer](https://github.com/Naturschutz-Richterswil-Samstagern/Naturschutz-Richterswil-Samstagern.github.io/blob/master/images/news/reidholz2.jpg)
