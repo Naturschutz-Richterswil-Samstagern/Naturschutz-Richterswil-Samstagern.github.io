@@ -24,3 +24,5 @@ Heckenaufwertung beim Oberschwandenhof:
 * Informationsaustausch
 * Zwischenverpflegung und Zmittag offeriert
 * feldtaugliche Kleidung und Handschuhe von Vorteil
+
+<img class="float-left mr-20" src="/images/news/oberschwandenhof2.jpg" />
