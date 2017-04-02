@@ -17,7 +17,7 @@ Ort:   Reidholz, Richterswil
 Kontakt: Anmeldung erwünscht, aber nicht obligatorisch
 (044 500 52 82 / keller@wieselundco.ch)
 
-Heckenaufwertung beim Oberschwandenhof:
+Waldrandaufwertung Reidholz:
 * Auslichten des Waldrandes zugunsten der Artenvielfalt
 * Erstellung von Asthaufen spezifisch für Kleinraubtiere
 * Installation von Spurentunnel
