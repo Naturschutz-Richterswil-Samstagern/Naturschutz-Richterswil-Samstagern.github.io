@@ -5,7 +5,7 @@ title: Heckenaufwertung beim Oberschwandenhof
 date: '2017-04-02 09:42 +0100'
 image: /images/news/oberschwandenhof.jpg
 published: true
-tagline: Heckenaufwertung beim Oberschwandenhof
+tagline: Samstag 8. April, 9:45 - ca. 16 Uhr
 ---
 
 **Heckenaufwertung beim Oberschwandenhof**
