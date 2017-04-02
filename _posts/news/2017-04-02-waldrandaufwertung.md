@@ -24,3 +24,5 @@ Waldrandaufwertung Reidholz:
 * Informationsaustausch
 * Zwischenverpflegung und Zmittag offeriert
 * feldtaugliche Kleidung und Handschuhe von Vorteil
+
+<img class="float-left mr-20" src="/images/news/reidholz2.jpg" />
