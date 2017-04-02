@@ -18,9 +18,9 @@ Kontakt: Anmeldung erwünscht, aber nicht obligatorisch
 (044 500 52 82 / keller@wieselundco.ch)
 
 Heckenaufwertung beim Oberschwandenhof:
- Auslichten der Hecke zur Erhöhung Artenvielfalt
- Erstellung von Asthaufen spezifisch für Kleinraubtiere
- Installation von Spurentunnel
- Informationsaustausch
- Zwischenverpflegung und Zmittag offeriert
- feldtaugliche Kleidung und Handschuhe von Vorteil
+* Auslichten der Hecke zur Erhöhung Artenvielfalt
+* Erstellung von Asthaufen spezifisch für Kleinraubtiere
+* Installation von Spurentunnel
+* Informationsaustausch
+* Zwischenverpflegung und Zmittag offeriert
+* feldtaugliche Kleidung und Handschuhe von Vorteil
