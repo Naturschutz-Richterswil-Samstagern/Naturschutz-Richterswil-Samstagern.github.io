@@ -12,7 +12,7 @@ tagline: Samstag 8. April, 9:45 - ca. 16 Uhr
 
 Datum: Samstag 8. April, 9:45 - ca. 16 Uhr
 
-Ort:   Oberschwanden, Richterswil (Oberhalb der Autobahn
+Ort:   Oberschwanden, Richterswil (oberhalb der Autobahn)
 
 Kontakt: Anmeldung erwünscht, aber nicht obligatorisch
 (044 500 52 82 / keller@wieselundco.ch)
