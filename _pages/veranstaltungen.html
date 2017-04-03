@@ -6,7 +6,7 @@ headerimage: /images/header/mach-mit.jpg
 ---
 &nbsp;<br>
 <ul class="post-list">
-  {% for post in site.categories.veranstaltungen %}
+  {% for post in site.categories.veranstaltungen reversed %}
   <li class="clearfix">
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

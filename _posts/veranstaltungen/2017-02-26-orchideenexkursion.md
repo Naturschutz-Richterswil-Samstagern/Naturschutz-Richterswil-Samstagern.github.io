@@ -3,7 +3,7 @@ layout: post
 title: Orchideenexkursion im Alpthal
 published: true
 categories: veranstaltungen
-date: '2017-02-25 16:15 +0100'
+date: '2017-06-25 16:15 +0100'
 tagline: Orchideenexkursion im Alpthal
 veranstalungsdatumUndZeit: 'Sonntag 25. Juni 14:00 - 17:00 Uhr'
 ort: '14:oo Uhr Haltestelle "Restaurant Brunni" Alpthal, (nicht "Luftseilbahn Brunni")'
