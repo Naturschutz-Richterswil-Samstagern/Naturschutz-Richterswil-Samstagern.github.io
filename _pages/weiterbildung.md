@@ -19,6 +19,6 @@ Egal, ob Sie Student, Mami oder neugierig gebliebener Senior sind, die Kurse sin
 
 <a class="button" href="http://www.birdlife-zuerich.ch/kurse-veranstaltungen/uebersicht">Kurse ZVS/BirdLife Zürich</a>
 
-<a class="button" href="http://www.birdlife.ch/d/home.html">Infos Schweizer Vogelschutz SVS/BirdLife Schweiz</a>
+<a class="button" href="http://www.birdlife.ch">Infos Schweizer Vogelschutz SVS/BirdLife Schweiz</a>
 
 [praesident-email]: mailto:ratnaweera@naturschutz-r-s.ch
