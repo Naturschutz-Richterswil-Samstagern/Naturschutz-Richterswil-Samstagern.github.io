@@ -1,3 +1,4 @@
+---
 categories: news
 layout: post
 title: Frühlingsmarkt Richterswil
