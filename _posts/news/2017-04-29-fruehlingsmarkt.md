@@ -4,7 +4,7 @@ layout: post
 title: Frühlingsmarkt Richterswil
 date: '2017-04-29 21:55'
 image: /images/news/frueh2017.jpg
-published: false
+published: true
 tagline: Frühlingsmarkt Richterswil & Vorstellung Projekt „TubeCam“
 ---
 
