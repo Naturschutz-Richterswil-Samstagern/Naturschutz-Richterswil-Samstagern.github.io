@@ -6,7 +6,7 @@ date: '2017-04-29 09:42 +0100'
 veranstalungsdatumUndZeit: 'Samstag, 29. April 2017 09:00 - 16:00 Uhr'
 ort: 'Wisshusplatz und auf einem Abschnitt der Dorfstrasse in Richterswil'
 image: /images/news/frueh2017.jpg
-published: true
+published: false
 tagline: Frühlingsmarkt Richterswil & Vorstellung Projekt „TubeCam“
 ---
 
