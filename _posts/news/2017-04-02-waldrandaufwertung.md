@@ -4,7 +4,7 @@ layout: post
 title: Waldrandaufwertung Reidholz
 date: '2017-03-31 09:42 +0100'
 image: /images/news/reidholz.jpg
-published: true
+published: false
 tagline: Samstag 29. April, 9:50 - ca. 16:30 Uhr
 ---
 
