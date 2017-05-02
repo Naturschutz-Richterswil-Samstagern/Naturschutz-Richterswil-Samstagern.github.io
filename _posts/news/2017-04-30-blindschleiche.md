@@ -14,5 +14,3 @@ Frank Blume hat einen ausgezeichnenten Vortrag über die Blindschleiche und ande
 Es waren über 20 interessierte Zuhörerinnen und Zuhörer anwesend.
 
 Das Ganze wurde mit ausgezeichneten Fotos und verschiedenen persönlichen Geschichten spannend vorgetragen.
-
-Unter der Rubrik Bilder finden Sie den Vortrag.
