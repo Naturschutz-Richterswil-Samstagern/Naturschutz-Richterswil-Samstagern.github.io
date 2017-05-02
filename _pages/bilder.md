@@ -6,11 +6,6 @@ permalink: /bilder/
 headerimage: /images/header/bilder.jpg
 published: 'true'
 ---
-## Vortrag von Frank Blume, April 2017
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/146766715@N05/albums/72157680155844963" title="Vortrag Blindschleiche von Frank Blume"><img src="https://c1.staticflickr.com/3/2830/33547290634_1e67c3765c_o.jpg" width="960" height="720" alt="Vortrag Blindschleiche von Frank Blume"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a class="button expanded" href="https://www.flickr.com/photos/146766715@N05/albums/72157680155844963">&#10095; zur Bildergalerie</a>
 
 ## Frühlingsmarkt, April 2017
 
