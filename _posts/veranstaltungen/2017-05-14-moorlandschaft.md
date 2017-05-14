@@ -5,8 +5,8 @@ published: true
 categories: veranstaltungen
 date: '2017-05-14 16:15 +0100'
 tagline: Führung durch die Moorlandschaft
-veranstalungsdatumUndZeit: 'Sonntag 25. Juni 14:00 - 17:00 Uhr'
-ort: 'Samstag 9.September 2017 08:30-ca.14:00 Uhr'
+veranstalungsdatumUndZeit: 'Samstag 9.September 2017 08:30-ca.14:00 Uhr'
+ort: '08.30 Uhr Bahnhof Rothenthurm'
 image: /images/news/moorlandschaft.jpg
 ---
 **Samstag 9.September 2017**
