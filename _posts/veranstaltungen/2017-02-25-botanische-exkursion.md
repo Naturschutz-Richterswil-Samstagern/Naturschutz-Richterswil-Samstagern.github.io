@@ -4,7 +4,7 @@ title: Botanische Exkursion in der Schwantenau
 published: true
 categories: veranstaltungen
 date: '2017-02-25 16:15 +0100'
-tagline: Orchideenexkursion im Alpthal
+tagline: Botanische Exkursion in der Schwantenau
 veranstalungsdatumUndZeit: 'Sonntag 11. Juni 10:00 - 13:00 Uhr'
 ort: 'Bahnhof, Biberbrugg'
 image: /images/news/schwantenau.jpg
