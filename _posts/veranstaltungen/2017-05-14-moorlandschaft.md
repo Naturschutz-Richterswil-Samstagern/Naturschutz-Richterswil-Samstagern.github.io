@@ -3,7 +3,7 @@ layout: post
 title: Führung durch die Moorlandschaft
 published: true
 categories: veranstaltungen
-date: '2017-05-14 16:15 +0100'
+date: '2017-07-14 16:15 +0100'
 tagline: Führung durch die Moorlandschaft
 veranstalungsdatumUndZeit: 'Samstag 9.September 2017 08:30-ca.14:00 Uhr'
 ort: '08.30 Uhr Bahnhof Rothenthurm'
