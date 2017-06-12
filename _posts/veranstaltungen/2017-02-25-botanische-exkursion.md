@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Botanische Exkursion in der Schwantenau
-published: true
+published: false
 categories: veranstaltungen
 date: '2017-04-25 16:15 +0100'
 tagline: Botanische Exkursion in der Schwantenau
