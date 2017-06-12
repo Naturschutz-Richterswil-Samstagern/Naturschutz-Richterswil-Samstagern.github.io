@@ -4,7 +4,7 @@ layout: post
 title: Mutierte Regenwürmer in Richterswil?
 date: '2017-04-30 16:15 +0100'
 image: /images/news/blindschleiche.jpg
-published: true
+published: false
 tagline: Bericht über den Vortag von Frank Blume
 ---
 
