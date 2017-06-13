@@ -7,6 +7,12 @@ headerimage: /images/header/bilder.jpg
 published: 'true'
 ---
 
+## Botanische Exkursion in der Schwantenau, Juni 2017
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/146766715@N05/albums/72157681988352492" title="2017 Botanische Exkursion In der Schwantenau"><img src="https://c1.staticflickr.com/5/4238/35227068166_551ff38d52_z.jpg" width="640" height="480" alt="2017 Botanische Exkursion In der Schwantenau"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a class="button expanded" href="https://www.flickr.com/photos/146766715@N05/albums/72157681988352492">&#10095; zur Bildergalerie</a>
+
 ## Frühlingsmarkt, April 2017
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/gp/146766715@N05/ws816B" title="Frühlingsmarkt 2017"><img src="https://c1.staticflickr.com/3/2860/33994235720_d1c4cd6215_z.jpg" width="950" height="712" alt="Frühlingsmarkt 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
