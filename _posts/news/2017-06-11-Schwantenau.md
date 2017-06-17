@@ -19,5 +19,5 @@ Herzlichen Dank, liebe Marguerite!
 
 Erich Stöckli, Aktuar
 
-**Unter der Rubrik Bilder auf unserer Homepage, können Sie Bilder und Ergäzungen ansehen. Viel Spas**
+**Unter der Rubrik Bilder auf unserer Homepage, können Sie Bilder und Ergäzungen ansehen. Viel Spass**
 
