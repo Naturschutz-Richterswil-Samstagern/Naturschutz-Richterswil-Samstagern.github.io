@@ -19,12 +19,13 @@ Deshalb haben wir uns von Pro Lutra vorgenommen, genau so ein Buch zu publiziere
 Ich freue mich, wenn auch Ihr Euch für das Projekt begeistern könnt! Beiträge aller Art (finanziell, ideell aber auch fürs Weiterleiten und Promoten) sind hochwillkommen.
 Wer noch nie einen Fischotter gefüttert hat (?!), hat sogar die exklusive Möglichkeit, genau das zu tun...
 
-Link zum Projekt ["Fischotterbuch"](https://www.100-days.net/de/projekt/fischotterbuch)
+**Link zum Projekt ["Fischotterbuch"](https://www.100-days.net/de/projekt/fischotterbuch)**
 
 
 Herzlichen Dank und mit fröhlichem Gruss in den Sommer.
 Auf dass die Träume wahr werden.
 Irene
+
 
  Stiftung Pro Lutra
  Wasserwerkgasse 2, CH-3011 Bern 
