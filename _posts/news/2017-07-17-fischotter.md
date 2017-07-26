@@ -22,15 +22,15 @@ Wer noch nie einen Fischotter gefüttert hat (?!), hat sogar die exklusive Mögl
 **Link zum Projekt ["Fischotterbuch"](https://www.100-days.net/de/projekt/fischotterbuch)**
 
 
-Herzlichen Dank und mit fröhlichem Gruss in den Sommer.
-Auf dass die Träume wahr werden.
+Herzlichen Dank und mit fröhlichem Gruss in den Sommer.    
+Auf dass die Träume wahr werden.    
 Irene
 
 
- Stiftung Pro Lutra
- Wasserwerkgasse 2, CH-3011 Bern 
+ Stiftung Pro Lutra    
+ Wasserwerkgasse 2, CH-3011 Bern     
  Tel. 031 328 33 53
 
- www.prolutra.ch
+ www.prolutra.ch    
  info@prolutra.ch
 
