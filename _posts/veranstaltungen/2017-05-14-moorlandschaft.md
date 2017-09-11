@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Führung durch die Moorlandschaft
-published: true
+published: false
 categories: veranstaltungen
 date: '2017-07-14 16:15 +0100'
 tagline: Führung durch die Moorlandschaft
