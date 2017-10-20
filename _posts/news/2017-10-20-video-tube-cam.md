@@ -2,7 +2,7 @@
 categories: news
 layout: post
 title: Projekt «TubeCam»
-date: '2017-04-02 09:42 +0100'
+date: '2017-10-20 09:42 +0100'
 image: /images/news/GV2017.jpg
 published: true
 tagline: Projekt «TubeCam»
