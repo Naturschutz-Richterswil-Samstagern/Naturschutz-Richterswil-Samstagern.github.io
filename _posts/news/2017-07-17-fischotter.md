@@ -4,7 +4,7 @@ layout: post
 title: Unterstützung für ein deutschsprachiges Fischotterbuch 
 date: '2017-07-17 21:55'
 image: /images/news/15137_small.jpg
-published: true
+published: false
 tagline: Unterstützung für ein deutschsprachiges Fischotterbuch 
 ---
 
