@@ -4,7 +4,7 @@ layout: post
 title: Generalversammlung 2017
 date: '2017-04-02 09:42 +0100'
 image: /images/news/GV2017.jpg
-published: false
+published: true
 tagline: Projekt «TubeCam»
 ---
 
