@@ -7,7 +7,7 @@ veranstalungsdatumUndZeit: 'Sonntag 25.Novenmber 2018 14:00-15:00 Uhr'
 ort: 'Haus zum Bären, Richterswil'
 image: /images/news/gletscher.jpg
 published: true
-tagline: 'Unsere Landschaft als Erbe der Eiszeit–Biotop für besondere Vogelarten?'
+tagline: 'Vortrag: Unsere Landschaft als Erbe der Eiszeit–Biotop für besondere Vogelarten?'
 ---
 
 Willi Nauer macht uns in diesem Vortrag den Ursprung unserer Landschaftsform bewusst und zeigt uns noch heute erkennbare Nach-Eiszeit-Regionen auf.
