@@ -7,7 +7,7 @@ veranstalungsdatumUndZeit: 'Sonntag 10. Juni 2018 09:45-12:15 Uhr'
 ort: 'Haltestelle Gemeindeverwaltung, Villnachern AG'
 image: /images/news/riemenzunge.jpg
 published: true
-tagline: 'Wer hat eine Bocksriemenzunge?'
+tagline: 'Exkursion: Wer hat eine Bocksriemenzunge?'
 ---
 
 Heinz Jucker nimmt uns mit auf eine botanische Exkursion zu den Ausläufern des Jura nach Villnachern (AG).
