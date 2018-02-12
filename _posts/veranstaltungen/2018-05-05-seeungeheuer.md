@@ -14,8 +14,8 @@ Frank Blume nimmt uns mit auf eine Reptilien Exkursion an den Vierwaldstätterse
 Nicht gruseliges aber interessantes gibt es dort über Seeschlangen zu berichten. 
 Mit hoher Wahrscheinlichkeit sehen wir dort die schönste und seltenste Schlange der Schweiz, evtl. auch Ringelnattern sowie Zaun- und Mauereidechsen.
 
-**Datum: Samstag 5. Mai 2018 10:00-11:30 Uhr **
+**Datum: Samstag 5. Mai 2018 10:00-11:30 Uhr**
 
-_Ort: Bushaltestelle Fallenbach, Brunnen_
+**Ort: Bushaltestelle Fallenbach, Brunnen**
 
 Ausrüstung: der Witterung entsprechend.
