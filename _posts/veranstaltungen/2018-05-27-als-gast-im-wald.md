@@ -6,7 +6,7 @@ date: '2018-05-27 09:42 +0100'
 veranstalungsdatumUndZeit: 'Sonntag 27. Mai 2018 10:00-11:30 Uhr'
 ort: 'Eingang Vitaparcours Reidholz, Reidholzweg Richterswil'
 image: /images/news/wald1.jpg
-published: true
+published: false
 tagline: 'Exkursion: Als Gast im Wald'
 ---
 
