@@ -6,7 +6,7 @@ date: '2018-04-28 09:42 +0100'
 veranstalungsdatumUndZeit: 'Samstag, 28. April 2018 09:00 - 16:00 Uhr'
 ort: 'Wisshusplatz und auf einem Abschnitt der Dorfstrasse in Richterswil'
 image: /images/news/frueh2017.jpg
-published: true
+published: false
 tagline: Frühlingsmarkt Richterswil
 ---
 
