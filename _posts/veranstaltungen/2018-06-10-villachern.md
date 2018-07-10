@@ -6,7 +6,7 @@ date: '2018-06-10 09:42 +0100'
 veranstalungsdatumUndZeit: 'Sonntag 10. Juni 2018 09:45-12:15 Uhr'
 ort: 'Haltestelle Gemeindeverwaltung, Villnachern AG'
 image: /images/news/riemenzunge.jpg
-published: true
+published: false
 tagline: 'Exkursion: Wer hat eine Bocksriemenzunge?'
 ---
 
