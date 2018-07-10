@@ -4,7 +4,7 @@ layout: post
 title: Botanische Exkursion in der Schwantenau
 date: '2017-06-12 21:55'
 image: /images/news/drachenwurz.jpg
-published: true
+published: false
 tagline: Botanische Exkursion in der Schwantenau
 ---
 
