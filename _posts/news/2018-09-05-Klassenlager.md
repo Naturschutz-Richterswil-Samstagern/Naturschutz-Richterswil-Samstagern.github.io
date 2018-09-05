@@ -12,7 +12,7 @@ tagline: Klassenlager im Mistlibühl «Vortrag über Eulen, Nistkästen und Voge
 
 Ein Uhu auf Reisen.  
  
-Ein kurzer Aufschrei!!  
+Ein kurzer Aufschrei!!    
 Eine Frau in der ZHAW war erschrocken, als ich mit einem Uhu auf dem Arm aus dem Gebäude kam.    
 Nein, ich bin kein Falkner.     
 Der Uhu ist nicht echt, sondern lebensecht präpariert mit einem durchdringenden Blick.  
