@@ -3,12 +3,14 @@ categories: news
 layout: post
 title: Ein Uhu auf Reisen
 date: '2018-09-05 09:42 +0100'
-image: /images/news/tubecam.jpg
+image: /images/news/uhu.jpg
 published: true
-tagline: Klassenlager Mistelibühl
+tagline: Klassenlager im Mistlibühl Vortrag über Eulen, Nistkästen und Vogeleier 
 ---
 
-**Ein Uhu auf Reisen.**
+**Klassenlager im Mistlibühl Vortrag über Eulen, Nistkästen und Vogeleier**   
+
+Ein Uhu auf Reisen.  
  
 Ein kurzer Aufschrei!!
 Eine Frau in der ZHAW war erschrocken, als ich mit einem Uhu auf dem Arm aus dem Gebäude kam.  
@@ -34,3 +36,4 @@ Zum Schluss haben wir noch Fotos unserer Wildtierkameras im Dorf gezeigt und das
 Ein sehr gelungener Anlass. Joe und ich hatten Freude an den aufgestellten Zuhörern.  
  
 Frank Blume
+
