@@ -5,10 +5,10 @@ title: Ein Uhu auf Reisen
 date: '2018-09-05 09:42 +0100'
 image: /images/news/uhu.jpg
 published: true
-tagline: Klassenlager im Mistlibühl Vortrag über Eulen, Nistkästen und Vogeleier 
+tagline: Klassenlager im Mistlibühl: Vortrag über Eulen, Nistkästen und Vogeleier 
 ---
 
-**Klassenlager im Mistlibühl Vortrag über Eulen, Nistkästen und Vogeleier**   
+**Klassenlager im Mistlibühl: Vortrag über Eulen, Nistkästen und Vogeleier**   
 
 Ein Uhu auf Reisen.  
  
