@@ -2,7 +2,7 @@
 categories: news
 layout: post
 title: Bewerbung als Ihr neues Team
-date: '2018-09-30 09:42 +0100'
+date: '2018-09-29'
 image: /images/news/bild_01.jpg
 published: true
 tagline: Bewerbung als Ihr neues Team
