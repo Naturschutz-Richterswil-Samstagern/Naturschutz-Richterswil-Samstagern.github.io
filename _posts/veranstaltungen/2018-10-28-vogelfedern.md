@@ -6,7 +6,7 @@ date: '2018-10-28 09:42 +0100'
 veranstalungsdatumUndZeit: 'Sonntag 28.Oktober 2018 14:00 Uhr'
 ort: 'Haus zum Bären, Richterswil'
 image: /images/news/federn.jpg
-published: true
+published: false
 tagline: 'Vortrag: Faszination Vogelfeder'
 ---
 
