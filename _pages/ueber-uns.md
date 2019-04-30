@@ -7,15 +7,12 @@ headerimage: /images/header/ueber-uns.jpg
 published: true
 ---
 
-* Wir sind ein Verein mit ca. 180 Mitgliedern
+* Wir sind ein Verein mit ca. 140 Mitgliedern
 * pflegen ein Biotop, betreuen Nisthilfen, fördern Hochstämmer, jäten invasive Neophyten...
 * wir setzen uns politisch für die Natur ein, innerhalb der Kommission Forst-, Landwirtschaft und Naturschutz der Gemeinde Richterswil-Samstagern
 * wir arbeiten nicht allein, sondern sind Mitglied der Dachverbände ZVS/BirdLife Zürich, des Schweizer Vogelschutzes SVS/BirdLife Schweiz sowie von BirdLife International
 * wir freuen uns, auch Sie zu unsern Mitgliedern zählen zu dürfen!
 
-##### Statuten
-
-Sie können unsere Statuten gerne beim [Präsidenten][praesident-email] anfordern.
 
 ##### Jahresbericht
 
@@ -23,7 +20,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
 
 <hr>
 
-## Vorstand
+## Vorstand und Mitglieder
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
@@ -33,7 +30,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
     <h3>Nils Ratnaweera</h3>
     <h4>Präsident</h4>
 
-    <p>E-Mail: <a href="mailto:ratnaweera@naturschutz-r-s.ch">ratnaweera@naturschutz-r-s.ch</a><br>
+    <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
     Telefon: 079 220 53 21<br>
     Adresse: Eichweidstrasse 14, 8820 Wädenswil</p>
   </div>
@@ -84,9 +81,8 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
   </div>
   <div class="large-10 columns">
       <h3>Erich Stöckli</h3>
-      <h4>Aktuar</h4>
 
-    <p>E-Mail: <a href="mailto:stoeckli@naturschutz-r-s.ch">stoeckli@naturschutz-r-s.ch</a><br>
+    <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
     Adresse: Hafengüterstrasse 4c, 8805 Richterswil</p>
   </div>
 </div>
