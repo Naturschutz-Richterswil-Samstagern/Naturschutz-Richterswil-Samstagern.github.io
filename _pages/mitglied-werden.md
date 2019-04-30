@@ -14,7 +14,7 @@ headerimage: /images/header/mitglied-werden.jpg
     einem vergünstigten Weiterbildungsangebot und einem guten Netzwerk.
   </p>
 
-  <a class="button" href="mailto:ratnaweera@naturschutz-r-s.ch">Ja, ich will Mitglied werden!</a>
+  <a class="button" href="mailto:info@naturschutz-r-s.ch">Ja, ich will Mitglied werden!</a>
 
   <p>Unsere Dachverbände:</p>
 
