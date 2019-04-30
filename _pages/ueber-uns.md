@@ -7,11 +7,11 @@ headerimage: /images/header/ueber-uns.jpg
 published: true
 ---
 
-* Wir sind ein Verein mit ca. 140 Mitgliedern
-* pflegen ein Biotop, betreuen Nisthilfen, fördern Hochstämmer, jäten invasive Neophyten...
-* wir setzen uns politisch für die Natur ein, innerhalb der Kommission Forst-, Landwirtschaft und Naturschutz der Gemeinde Richterswil-Samstagern
-* wir arbeiten nicht allein, sondern sind Mitglied der Dachverbände ZVS/BirdLife Zürich, des Schweizer Vogelschutzes SVS/BirdLife Schweiz sowie von BirdLife International
-* wir freuen uns, auch Sie zu unsern Mitgliedern zählen zu dürfen!
+* wir sind ein Verein mit ca. 140 Mitgliedern
+* organisieren Pflanzaktionen zusammen mit der Gemeinde Richterswil-Samstagern
+* betreuen Nisthilfen, fördern Hochstämmer, jäten invasive Neophyten...
+* wir sind Mitglied der Dachverbände ZVS/BirdLife Zürich, des Schweizer Vogelschutzes SVS/BirdLife Schweiz sowie von BirdLife International
+* werden Sie unser neues Mitglied, wir freuen uns auf Sie
 
 
 ##### Jahresbericht
