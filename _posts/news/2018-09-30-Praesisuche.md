@@ -4,7 +4,7 @@ layout: post
 title: Bewerbung als Ihr neues Team
 date: '2018-09-25 09:42 +0100'
 image: /images/news/bild_01.jpg
-published: true
+published: false
 tagline: Bewerbung als Ihr neues Team
 ---
 
