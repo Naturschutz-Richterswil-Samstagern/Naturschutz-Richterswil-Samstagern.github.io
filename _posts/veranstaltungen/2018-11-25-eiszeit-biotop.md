@@ -6,7 +6,7 @@ date: '2018-11-25 09:42 +0100'
 veranstalungsdatumUndZeit: 'Sonntag 25.Novenmber 2018 14:00-15:00 Uhr'
 ort: 'Haus zum Bären, Richterswil'
 image: /images/news/gletscher.jpg
-published: true
+published: false
 tagline: 'Vortrag: Unsere Landschaft als Erbe der Eiszeit–Biotop für besondere Vogelarten?'
 ---
 
