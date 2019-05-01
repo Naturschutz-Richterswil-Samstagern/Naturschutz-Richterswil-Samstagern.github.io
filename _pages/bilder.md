@@ -8,7 +8,7 @@ published: 'true'
 ---
 ## Orchideenexkursion im Alpthal, Juni 2017
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/gp/146766715@N05/06o9Dt" title="2017 Orchideenexkursion im Alpthal"><img src="https://c1.staticflickr.com/5/4209/35373512962_3692a88642_h.jpg" width="450" height="800" alt="2017 Orchideenexkursion im Alpthal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/146766715@N05/06o9Dt" title="2017 Orchideenexkursion im Alpthal"><img src="https://c1.staticflickr.com/5/4209/35373512962_3692a88642_h.jpg" width="360" height="640" alt="2017 Orchideenexkursion im Alpthal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a class="button expanded" href="https://www.flickr.com/gp/146766715@N05/06o9Dt">&#10095; zur Bildergalerie</a>
 
