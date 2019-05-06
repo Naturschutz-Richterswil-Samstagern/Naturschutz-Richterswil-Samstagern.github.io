@@ -4,7 +4,7 @@ layout: post
 title: Pflanzung beim Auslaufbauwerk Meiredebächli in Samstagern 
 date: '2019-05-06 09:42 +0100'
 image: /images/news/Meiredebächli_SaF2.jpg
-published: false
+published: true
 tagline: Unsere gemeinsame Pflanzaktion mit Thomas von Atzigen der Gemeinde Richterswil
 ---
 
