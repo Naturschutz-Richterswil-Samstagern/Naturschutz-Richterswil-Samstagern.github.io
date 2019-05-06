@@ -18,5 +18,4 @@ Die gute und kommunikative Beziehung zwischen dem Naturschutz Richterswil Samsta
 
 
 
-
-<img class="float-right ml-20" src="/images/news/meired5.jpg" />
+<img class="float-left mr-20" src="/images/news/meired5.jpg" />
