@@ -16,7 +16,7 @@ published: true
 
 ##### Jahresbericht
 
-Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email] anfordern.
+Sie können den Jahresbericht gerne bei unserer info mail anfordern.
 
 <hr>
 
@@ -62,6 +62,7 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
   </div>
 </div>
 
+
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
     <img width="133" src="/images/ueber-uns/joe.jpg"/>
@@ -76,29 +77,6 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
   </div>
 </div>
 
-<div class="row" style="margin-bottom:50px;">
-  <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/nils_ratnaweera.jpg"/>
-  </div>
-  <div class="large-10 columns">
-    <h3>Nils Ratnaweera</h3>
-    <h4>Mitglied</h4>
-
-    <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
-  </div>
-</div>
-
-<div class="row" style="margin-bottom:50px;">
-  <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/rose-marie_weilenmann.png"/>
-  </div>
-  <div class="large-10 columns">
-      <h3>Rose-Marie Weilenmann</h3>
-      <h4>Mitglied</h4>
-
-    <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
-  </div>
-</div>
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
@@ -106,7 +84,8 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
   </div>
   <div class="large-10 columns">
       <h3>Erich Stöckli</h3>
-
+      <h4>Mitglied</h4>
+    
     <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
     Adresse: Hafengüterstrasse 4c, 8805 Richterswil</p>
   </div>
