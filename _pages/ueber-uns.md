@@ -16,7 +16,7 @@ published: true
 
 ##### Jahresbericht
 
-Sie können den Jahresbericht gerne bei unsererem <a class="button" href="mailto:info@naturschutz-r-s.ch">Vorstand</a> anfordern.
+Sie können den Jahresbericht gerne bei unsererem <a href="mailto:info@naturschutz-r-s.ch">Vorstand</a> anfordern.
 
 <hr>
 
