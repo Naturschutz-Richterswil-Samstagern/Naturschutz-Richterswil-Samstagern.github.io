@@ -24,16 +24,30 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/nils_ratnaweera.jpg"/>
+    <img width="133" src="/images/ueber-uns/NSRS_Regula-2.jpg"/>
   </div>
   <div class="large-10 columns">
-    <h3>Nils Ratnaweera</h3>
-    <h4>Mitglied</h4>
+    <h3>Regula Büchler</h3>
+    <h4>Aktuarin</h4>
 
-    <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
-    Adresse: Eichweidstrasse 14, 8820 Wädenswil</p>
+    <p>E-Mail: <a href="mailto:buechler@naturschutz-r-s.ch">buechler@naturschutz-r-s.ch</a><br>
+    Adresse: Mülibachstrasse 19, 8805 Richterswil</p>
   </div>
 </div>
+
+<div class="row" style="margin-bottom:50px;">
+  <div class="large-2 columns">
+    <img width="133" src="/images/ueber-uns/erich-kolb.jpg"/>
+  </div>
+  <div class="large-10 columns">
+      <h3>Erich Kolb</h3>
+      <h4>Obmann Stv., Beisitzer</h4>
+
+    <p>E-Mail: <a href="mailto:kolb@naturschutz-r-s.ch">kolb@naturschutz-r-s.ch</a><br>
+    Adresse: Paulistrasse 38, 8834 Schindellegi</p>
+  </div>
+</div>
+
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
@@ -50,27 +64,39 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/rose-marie_weilenmann.png"/>
+    <img width="133" src="/images/ueber-uns/joe.jpg"/>
   </div>
   <div class="large-10 columns">
-      <h3>Rose-Marie Weilenmann</h3>
-      <h4>Beisitzerin, Kulinarische Fee</h4>
+      <h3>Joe Rogenmoser</h3>
+      <h4>Obmann</h4>
 
-    <p>E-Mail: <a href="mailto:weilenmann@naturschutz-r-s.ch">weilenmann@naturschutz-r-s.ch</a><br>
-    Adresse: Glarnerstrasse 31, 8805 Richterswil</p>
+    <p>E-Mail: <a href="mailto:joyoro@bluewin.ch ">joyoro@bluewin.ch </a><br>
+    Telefon: 044 785 09 81<br>
+    Adresse: Mülibachstrasse 46, 8805 Richterswil</p>
   </div>
 </div>
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/erich-kolb.jpg"/>
+    <img width="133" src="/images/ueber-uns/nils_ratnaweera.jpg"/>
   </div>
   <div class="large-10 columns">
-      <h3>Erich Kolb</h3>
-      <h4>Stellvertretender Obmann, Beisitzer</h4>
+    <h3>Nils Ratnaweera</h3>
+    <h4>Mitglied</h4>
 
-    <p>E-Mail: <a href="mailto:kolb@naturschutz-r-s.ch">kolb@naturschutz-r-s.ch</a><br>
-    Adresse: Paulistrasse 38, 8834 Schindellegi</p>
+    <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
+  </div>
+</div>
+
+<div class="row" style="margin-bottom:50px;">
+  <div class="large-2 columns">
+    <img width="133" src="/images/ueber-uns/rose-marie_weilenmann.png"/>
+  </div>
+  <div class="large-10 columns">
+      <h3>Rose-Marie Weilenmann</h3>
+      <h4>Mitglied</h4>
+
+    <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
   </div>
 </div>
 
@@ -83,20 +109,6 @@ Sie können den Jahresbericht gerne bei unserem [Präsidenten][praesident-email]
 
     <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
     Adresse: Hafengüterstrasse 4c, 8805 Richterswil</p>
-  </div>
-</div>
-
-<div class="row" style="margin-bottom:50px;">
-  <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/joe.jpg"/>
-  </div>
-  <div class="large-10 columns">
-      <h3>Joe Rogenmoser</h3>
-      <h4>Obmann</h4>
-
-    <p>E-Mail: <a href="mailto:joyoro@bluewin.ch ">joyoro@bluewin.ch </a><br>
-    Telefon: 044 785 09 81<br>
-    Adresse: Mülibachstrasse 46, 8805 Richterswil</p>
   </div>
 </div>
 
