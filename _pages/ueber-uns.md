@@ -16,7 +16,7 @@ published: true
 
 ##### Jahresbericht
 
-Sie können den Jahresbericht gerne bei unserer info mail anfordern.
+Sie können den Jahresbericht gerne bei unserer Info Mail anfordern.
 
 <hr>
 
