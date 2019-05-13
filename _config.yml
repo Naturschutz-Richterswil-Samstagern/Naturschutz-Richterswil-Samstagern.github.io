@@ -10,7 +10,7 @@ title: Naturschutz Richterswil-Samstagern
 email: info@naturschutz-r-s.ch
 phone: 078 909 47 48
 description: > # this means to ignore newlines until "baseurl:"
-  Unser Engagement fliesst in diverse Pflanzaktionen ein und in den Unterhalt zahlreicher Nistkästen. Wir vernetzen,informieren und unterstützen die Förderung der biologischen Vielfalt.
+  Unser Engagement fliesst in diverse Pflanzaktionen ein und in den Unterhalt zahlreicher Nistkästen. Wir vernetzen, informieren und unterstützen die Förderung der biologischen Vielfalt.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://naturschutz-richterswil-samstagern.github.io" # the base hostname & protocol for your site
 twitter_username: sinndrin
