@@ -10,8 +10,7 @@ headerimage: /images/header/mitglied-werden.jpg
 </div>
 <div class="large-8 medium-8 columns">
   <p>
-    Für Fr. 40.- pro Jahr sind Sie bei uns dabei und gleichzeitig auch bei unsern Dachverbänden. So profitieren Sie von
-    einem vergünstigten Weiterbildungsangebot und einem guten Netzwerk.
+    Mit CHF 40.- pro Jahr unterstützen Sie unsere Vereinsaktivitäten und helfen der Natur wirkungsvoll vor Ort. Profitieren Sie gleichzeitig von unserem Dachverband und einem vergünstigten Weiterbildungsangebot.
   </p>
 
   <a class="button" href="mailto:info@naturschutz-r-s.ch">Ja, ich will Mitglied werden!</a>
