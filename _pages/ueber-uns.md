@@ -9,8 +9,8 @@ published: true
 
 * Raum für Natur und Mensch schaffen
 * Für grüne Lebensqualität in der Gemeinde sorgen
-* Pflanzaktionen unterstützen, Nisthilfen betreuen, Hochstämmer fördern … das sind wir! 
-* Unser Verein ist Mitglied der Dachverbände ZVS/BirdLife Zürich, des Schweizer Vogelschutzes SVS/BirdLife Schweiz sowie von BirdLife International
+* Pflanzaktionen unterstützen, Nisthilfen betreuen, Hochstämmer fördern … das sind wir!  
+Unser Verein ist Mitglied der Dachverbände ZVS/BirdLife Zürich, des Schweizer Vogelschutzes SVS/BirdLife Schweiz sowie von BirdLife International
 
 
 Engagiere Dich mit uns zusammen; wir freuen uns über neue Ideen und Deine aktive Unterstützung.   
