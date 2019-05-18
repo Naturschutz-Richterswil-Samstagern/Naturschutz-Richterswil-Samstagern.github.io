@@ -1,21 +1,26 @@
 ---
 layout: page
 title: Über uns
-titleOverwrite: 'Das sind wir, das machen wir...'
+titleOverwrite: 'Herzlich willkommen im Naturschutz'
 permalink: /ueber-uns/
 headerimage: /images/header/ueber-uns.jpg
 published: true
 ---
 
-* wir sind ein Verein mit ca. 140 Mitgliedern
-* organisieren Pflanzaktionen zusammen mit der Gemeinde Richterswil-Samstagern
-* betreuen Nisthilfen, fördern Hochstämmer, jäten invasive Neophyten...
-* wir sind Mitglied der Dachverbände ZVS/BirdLife Zürich, des Schweizer Vogelschutzes SVS/BirdLife Schweiz sowie von BirdLife International
-* werden Sie unser neues Mitglied, wir freuen uns auf Sie
+* Raum für Natur und Mensch schaffen
+* Für grüne Lebensqualität in der Gemeinde sorgen
+* Pflanzaktionen unterstützen, Nisthilfen betreuen, Hochstämmer fördern … das sind wir! 
+* Unser Verein ist Mitglied der Dachverbände ZVS/BirdLife Zürich, des Schweizer Vogelschutzes SVS/BirdLife Schweiz sowie von BirdLife International
 
+
+Engagiere Dich mit uns zusammen; wir freuen uns über neue Ideen und Deine aktive Unterstützung.   
+Sehr gerne kannst Du uns auch als Passivmitglied unterstützen. 
+
+Interessiert? Melde Dich unverbindlich auf info@naturschutz-r-s.ch oder bei 
+Erich Kolb, Tel. 078 909 47 48  
+  
 
 ##### Jahresbericht
-
 Sie können den Jahresbericht gerne bei unsererem <a href="mailto:info@naturschutz-r-s.ch">Vorstand</a> anfordern.
 
 <hr>
