@@ -10,10 +10,10 @@ published: true
 * Raum für Natur und Mensch schaffen
 * Für grüne Lebensqualität in der Gemeinde sorgen
 * Pflanzaktionen unterstützen, Nisthilfen betreuen, Hochstämmer fördern … das sind wir!  
+  
+    
 Unser Verein ist Mitglied der Dachverbände ZVS/BirdLife Zürich, des Schweizer Vogelschutzes SVS/BirdLife Schweiz sowie von BirdLife International
-
-
-Engagiere Dich mit uns zusammen; wir freuen uns über neue Ideen und Deine aktive Unterstützung.   
+Engagiere Dich mit uns zusammen; wir freuen uns über neue Ideen und Deine aktive Unterstützung.
 Sehr gerne kannst Du uns auch als Passivmitglied unterstützen. 
 
 Interessiert? Melde Dich unverbindlich auf <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a> oder bei 
