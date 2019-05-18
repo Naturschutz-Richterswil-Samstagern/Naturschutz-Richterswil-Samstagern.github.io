@@ -16,7 +16,7 @@ published: true
 Engagiere Dich mit uns zusammen; wir freuen uns über neue Ideen und Deine aktive Unterstützung.   
 Sehr gerne kannst Du uns auch als Passivmitglied unterstützen. 
 
-Interessiert? Melde Dich unverbindlich auf info@naturschutz-r-s.ch oder bei 
+Interessiert? Melde Dich unverbindlich auf <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a> oder bei 
 Erich Kolb, Tel. 078 909 47 48  
   
 
