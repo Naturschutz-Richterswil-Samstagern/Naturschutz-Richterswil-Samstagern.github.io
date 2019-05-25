@@ -19,4 +19,7 @@ Neophyten sind gebietsfremde Pflanzen, die sich sehr effizient ausbreiten. Sie v
 
 **Treffpunkt: Botanischer Garten Zürich, Haupteingang**
 
-**Leitung: Ursula Wegmann**
+**Leitung: Ursula Wegmann**  
+**Kontakt: Fragen beantwortet [Frank Blume](mailto:blume@naturschutz-r-s.ch)**
+
+Ausrüstung der Witterung entsprechend
