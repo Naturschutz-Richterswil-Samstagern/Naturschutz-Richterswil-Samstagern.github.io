@@ -11,7 +11,8 @@ tagline: Zweite Pflanzaktion Bachtelblick beim Hochwasser Entlastungsstollen Chr
 **Gemeinsame Pflanzaktion Naturschutz Richterswil Samstagern mit der Gemeinde Richterswil**   
 
 
-Bei der zweiten Pflanzaktion kamen wir nicht ohne Regenmantel und Gummistiefel aus! Dafür war der Boden lockerer und das ‚Löcher schaufeln‘ fiel umso leichter.  
+Bei der zweiten Pflanzaktion kamen wir nicht ohne Regenmantel und Gummistiefel aus!  
+Dafür war der Boden lockerer und das ‚Löcher schaufeln‘ fiel umso leichter.  
   
 
 <img class="float-left mr-20" src="/images/news/sw20190511.jpg" />  
