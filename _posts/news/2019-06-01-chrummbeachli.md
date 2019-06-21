@@ -19,5 +19,5 @@ Dafür war der Boden lockerer und das ‚Löcher schaufeln‘ fiel umso leichter
 
   
 Wir freuen uns über Deine Mithilfe bei zukünftigen Pflanzaktionen.  
-Dein Naturschutz Richterswil Samstagern
+Dein Naturschutz Richterswil Samstagern  
 [Info](mailto:info@naturschutz-r-s.ch)
