@@ -2,7 +2,7 @@
 categories: news
 layout: post
 title: Pflanzung beim Auslaufbauwerk Meiredebächli in Samstagern 
-date: '2019-06-01 09:42 +0100'
+date: '2019-06-05 09:40 +0100'
 image: /images/news/sw20190511.jpg
 published: true
 tagline: Zweite Pflanzaktion Bachtelblick beim Hochwasser Entlastungsstollen Chrummbächli 
