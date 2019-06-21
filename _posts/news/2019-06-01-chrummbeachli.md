@@ -15,7 +15,7 @@ Bei der zweiten Pflanzaktion kamen wir nicht ohne Regenmantel und Gummistiefel a
 Dafür war der Boden lockerer und das ‚Löcher schaufeln‘ fiel umso leichter.  
   
 
-<img class="float-left mr-20" src="/images/news/sw20190511.jpg" />  
+<img class="float-left mr-20" src="/images/news/sw20190511.jpg" />    
 
   
 Wir freuen uns über Deine Mithilfe bei zukünftigen Pflanzaktionen.  
