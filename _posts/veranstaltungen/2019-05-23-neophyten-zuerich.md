@@ -6,7 +6,7 @@ date: '2019-05-23 09:42 +0100'
 veranstalungsdatumUndZeit: 'Sonntag, 16. Juni 2019 14:00-15:30 Uhr'
 ort: 'Botanischer Garten Zürich, Haupteingang'
 image: /images/news/amerikanischergoldruten.jpg
-published: true
+published: false
 tagline: 'Neophyten als wandernde Pflanzen –  welches Potential verbirgt sich in ihnen?'
 ---
 
