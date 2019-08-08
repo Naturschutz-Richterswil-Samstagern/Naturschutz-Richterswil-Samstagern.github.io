@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weiterbildung
+title: Weiterbildungen
 permalink: /weiterbildung/
 headerimage: /images/header/weiterbildung.jpg
 ---
