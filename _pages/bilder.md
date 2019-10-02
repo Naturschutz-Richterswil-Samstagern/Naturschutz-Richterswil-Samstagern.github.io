@@ -6,6 +6,12 @@ permalink: /bilder/
 headerimage: /images/header/bilder.jpg
 published: 'true'
 ---
+## Exkursion Pilze, Beeren und Früchte, September 2019
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/184779596@N04/albums/72157711162038088" title="Exkursion"><img src="https://live.staticflickr.com/65535/48831201643_5d34a5f381_z.jpg" width="480" height="640" alt="Exkursion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="button expanded" href="https://www.flickr.com/photos/184779596@N04/albums/72157711162038088">&#10095; zur Bildergalerie</a>
+
+
 ## Orchideenexkursion im Alpthal, Juni 2017
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/146766715@N05/albums/72157682682879933" title="2017 Orchideenexkursion im Alpthal"><img src="https://live.staticflickr.com/4290/35153551780_1c8484b985_z.jpg" width="640" height="360" alt="2017 Orchideenexkursion im Alpthal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
