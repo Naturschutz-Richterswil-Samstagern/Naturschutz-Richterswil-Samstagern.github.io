@@ -6,6 +6,13 @@ permalink: /bilder/
 headerimage: /images/header/bilder.jpg
 published: 'true'
 ---
+## Vogelzug-Referat, Dezember 2019
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/184779596@N04/albums/72157712230852138" title="Vogelzug"><img src="https://live.staticflickr.com/65535/49228374186_f342bcc344_z.jpg" width="640" height="480" alt="Vogelzug"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a class="button expanded" href="https://www.flickr.com/photos/184779596@N04/albums/72157712230852138">&#10095; zur Bildergalerie</a>
+
+
 ## Exkursion Pilze, Beeren und Früchte, September 2019
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/184779596@N04/albums/72157711162038088" title="Exkursion"><img src="https://live.staticflickr.com/65535/48831201643_5d34a5f381_z.jpg" width="480" height="640" alt="Exkursion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
