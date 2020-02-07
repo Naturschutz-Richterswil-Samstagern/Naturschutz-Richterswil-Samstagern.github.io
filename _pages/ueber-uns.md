@@ -85,7 +85,7 @@ Sie können den Jahresbericht gerne bei unsererem <a href="mailto:info@naturschu
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/platzhalter.jpg"/>
+    
   </div>
   <div class="large-10 columns">
       <h3>Marius Wälchli</h3>
