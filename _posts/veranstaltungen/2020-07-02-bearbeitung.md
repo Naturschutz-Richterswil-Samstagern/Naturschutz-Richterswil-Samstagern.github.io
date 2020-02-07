@@ -12,5 +12,6 @@ tagline: 'Unser Jahresprogramm 2020 ist in Bearbeitung und wird nach dem Einladu
 ---
 Datum der Generalversammlung:
 **Donnerstag, 26. März 2020**
+
 **Treffpunkt: Haus zum Bären, Richterswil**
 
