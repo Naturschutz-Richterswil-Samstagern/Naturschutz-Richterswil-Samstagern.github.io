@@ -85,14 +85,14 @@ Sie können den Jahresbericht gerne bei unsererem <a href="mailto:info@naturschu
 
 <div class="row" style="margin-bottom:50px;">
   <div class="large-2 columns">
-    <img width="133" src="/images/ueber-uns/erich_stoeckli.jpg"/>
+    <img width="133" src="/images/ueber-uns/platzhalter.jpg"/>
   </div>
   <div class="large-10 columns">
-      <h3>Erich Stöckli</h3>
-      <h4>Mitglied, Betreuung Webseite</h4>
+      <h3>Marius Wälchli</h3>
+      <h4>Betreuung Webseite</h4>
     
-    <p>E-Mail: <a href="mailto:info@naturschutz-r-s.ch">info@naturschutz-r-s.ch</a><br>
-    Adresse: Hafengüterstrasse 4c, 8805 Richterswil</p>
+    <p>E-Mail: <a href="mailto:marius.waelchli@hotmail.com">marius.waelchli@hotmail.com</a><br>
+    </p>
   </div>
 </div>
 
