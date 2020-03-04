@@ -13,4 +13,3 @@ Datum der Generalversammlung: **Donnerstag, 26. März 2020**
 Zeitpunkt: **19.45 Uhr**
 
 Treffpunkt: **Haus zum Bären, Richterswil**
-
