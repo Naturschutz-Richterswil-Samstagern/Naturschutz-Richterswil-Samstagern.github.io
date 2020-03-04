@@ -9,8 +9,8 @@ image: /images/news/2020_NetzmitTropfen_Website.jpg
 published: true
 tagline: 'Wir freuen uns auf euer zahlreiches Erscheinen an unserer diesjährigen GV.'
 ---
-Datum der Generalversammlung:
-**Donnerstag, 26. März 2020**
+Datum der Generalversammlung: **Donnerstag, 26. März 2020**
+Zeitpunkt: **19.45 Uhr**
 
-**Treffpunkt: Haus zum Bären, Richterswil**
+Treffpunkt: **Haus zum Bären, Richterswil**
 
