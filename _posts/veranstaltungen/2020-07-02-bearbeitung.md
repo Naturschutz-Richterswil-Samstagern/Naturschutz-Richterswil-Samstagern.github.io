@@ -1,7 +1,7 @@
 ---
 categories: veranstaltungen
 layout: veranstaltung
-title: Unser Jahresprogramm 2020 ist in Bearbeitung und wird nach dem Einladungsversand zur GV auf der Website aufgeschaltet.
+title: Jahresprogramm 2020
 date: '2020-07-02 17:00 +0100'
 veranstalungsdatumUndZeit: 'Donnerstag, 26. März 2020'
 ort: 'Haus zum Bären, Richterswil'
