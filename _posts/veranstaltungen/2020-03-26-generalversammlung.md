@@ -3,7 +3,7 @@ categories: veranstaltungen
 layout: veranstaltung
 title: Generalversammlung
 date: '2020-03-26 17:00 +0100'
-veranstalungsdatumUndZeit: 'Donnerstag, 26. März 2020'
+veranstalungsdatumUndZeit: 'Donnerstag, 26. März 2020, 19.45 Uhr'
 ort: 'Haus zum Bären, Richterswil'
 #image: /images/news/2020_NetzmitTropfen_Website.jpg
 published: true
