@@ -7,7 +7,7 @@ veranstalungsdatumUndZeit: 'Samstag, 25. Juli, 14.00 Uhr, ca. 2 Std.'
 ort: 'Biotop an der Kreuzung Froh Ussicht'
 #image: /images/news/2020_NetzmitTropfen_Website.jpg
 published: true
-tagline: Unterwegs mit Kescher und Lupe in Samstagern.'
+tagline: 'Unterwegs mit Kescher und Lupe in Samstagern.'
 ---
 Unterwegs mit Kescher und Lupe in Samstagern.
 
