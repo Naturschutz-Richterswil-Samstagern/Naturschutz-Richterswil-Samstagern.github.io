@@ -4,7 +4,7 @@ layout: veranstaltung
 title: Naturnahe Gartengestaltung
 date: '2020-04-04 17:00 +0100'
 veranstalungsdatumUndZeit: 'Samstag, 4. April, 11.15 Uhr bis ca. 14.30 Uhr'
-ort: 'Ankunft B280 11.11 Uhr Station Kappelerstrasse'
+ort: 'Ankunft B280 11.11 Uhr Station Kappelerstrasse 8926 Uerzlikon'
 #image: /images/news/2020_NetzmitTropfen_Website.jpg
 published: true
 tagline: 'Geführter Besuch und Inspirationen im Ideengarten natUrban durch Pirmin Rohrer.'
@@ -12,9 +12,9 @@ tagline: 'Geführter Besuch und Inspirationen im Ideengarten natUrban durch Pirm
 
 Geführter Besuch und Inspirationen im Ideengarten natUrban durch Pirmin Rohrer, 8926 Uerzlikon
 
-(Ankunft B280 11.11 Uhr Station Kappelerstrasse)
+(Ankunft B280 11.11 Uhr Station Kappelerstrasse 8926 Uerzlikon)
 
-PP vorhanden, www.naturban.ch
+PP vorhanden, [www.naturban.ch](http://www.naturban.ch)
 
 Verpflegung aus dem Rucksack.
 
