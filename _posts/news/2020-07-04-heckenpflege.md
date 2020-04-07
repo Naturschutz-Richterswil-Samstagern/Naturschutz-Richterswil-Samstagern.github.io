@@ -2,7 +2,6 @@
 categories: news
 layout: post
 title: Heckenpflege am Miesbach - Helfereinsatz am 1. Februar 2020  
-date: ''
 image: /images/news/p.jpg
 published: true
 tagline: Unser Helfereinsatz war in jeder Hinsicht unglaublich bereichernd. Es wurde mit grossem Einsatz
