@@ -12,5 +12,6 @@ An der Gemeindegrenze von Richterswil und Wädenswil, dort wo der Miesbach die O
 vor einigen Jahrzehnten ein Landwirtschaftsbetrieb ökologisch ausgerichtet. Bis heute handelt es sich um den besten Einstand für das Wild und viele andere Naturwerte am
 Miesbach.
 
-https://photos.google.com/share/AF1QipOUX0dT1GmTzCii6ZD_zkfi6_3hhdWzW5EcW7yILwnKb9780qIyPY7PK5LIjc9A-Q?key=dXQ5dmxqUzhqWEViUUhhOHBJOHVyWU5PQnlocTRR
+<a href="https://photos.google.com/share/AF1QipOUX0dT1GmTzCii6ZD_zkfi6_3hhdWzW5EcW7yILwnKb9780qIyPY7PK5LIjc9A-Q?key=dXQ5dmxqUzhqWEViUUhhOHBJOHVyWU5PQnlocTRR/">Link zur Fotostory</a>
+
 
