@@ -14,6 +14,7 @@ nisteten vor allem Feldsperlinge, Haussperlinge und Meisen in diesem Gebiet. Die
 erkennt man am frontal angebrachten Einflugloch. Die Nester der Sperlinge sind mit Federn
 geschmückt, diejenigen der Meisen mit Moos gepolstert. Nicht alle Jungvögel schaffen den
 Einstieg ins Flugleben...
+
 Einige Kästen sind mit seitlichen Schlupflöchern ausgestattet. Diese sind für Kleiber oder
 Baumläufer gedacht. Der Kleiber ist übrigens der einzige Vogel Europas, der mit dem Kopf
 voran an Baumstämmen nach unten klettern kann. Dieses Jahr findet sich jedoch kein Nest
