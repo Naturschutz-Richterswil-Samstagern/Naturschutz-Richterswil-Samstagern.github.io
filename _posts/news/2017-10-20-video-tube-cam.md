@@ -4,7 +4,7 @@ layout: post
 title: Projekt «TubeCam»
 date: '2017-10-20 09:42 +0100'
 image: /images/news/tubecam.jpg
-published: false
+published: true
 tagline: Informationsfilm zum Projekt «TubeCam»
 ---
 
