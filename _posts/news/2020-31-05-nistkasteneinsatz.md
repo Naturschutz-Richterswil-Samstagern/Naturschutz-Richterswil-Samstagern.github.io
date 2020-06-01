@@ -3,7 +3,7 @@ categories: news
 layout: post
 title: Nistkasteneinsatz am Sternensee vom März 2020
 date: '2020-31-05 18:00 +0100'
-image: /images/news/2020-03-07 11.28.44.jpg
+image: /images/news/nistkasteneinsatzbild.jpg
 published: true
 tagline: Ein Einblick unseres diesjährigen Nistkasteneinsatzes. 
 ---
