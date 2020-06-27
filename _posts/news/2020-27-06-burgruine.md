@@ -3,7 +3,7 @@ categories: news
 layout: post
 title: Entfernung ‚Kanadische Goldrute‘ auf der Burgruine Richterswil
 date: '2020-05-16 18:00 +0100'
-image: /images/news/nistkasteneinsatzbild.jpg
+image: /images/news/
 published: true
 tagline: Die invasive Neophyte ‚Kanadische Goldrute‘ breitete sich alljährlich wieder in und ums Burgruinenareal aus und verdrängt die heimische Flora! 
 ---
