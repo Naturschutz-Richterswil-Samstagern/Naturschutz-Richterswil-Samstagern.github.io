@@ -6,6 +6,13 @@ permalink: /bilder/
 headerimage: /images/header/bilder.jpg
 published: 'true'
 ---
+## Entfernung ‚Kanadische Goldrute‘ auf der Burgruine Richterswil, Mai 2020
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/184779596@N04/albums/72157714878507242" title="Burgruine"><img src="https://live.staticflickr.com/65535/50050503652_cea86952b1_z.jpg" width="640" height="480" alt="Burgruine"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a class="button expanded" href="https://www.flickr.com/photos/184779596@N04/albums/72157714878507242">&#10095; zur Bildergalerie</a>
+
+
 ## Nistkasteneinsatz, März 2020
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/184779596@N04/albums/72157714527127106" title="Nistkasteneinsatz"><img src="https://live.staticflickr.com/65535/49957394332_fc1c9d64c1_z.jpg" width="640" height="480" alt="Nistkasteneinsatz"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
